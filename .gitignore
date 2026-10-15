@@ -1,0 +1,19 @@
+# Dependencias y binarios
+node_modules/
+**/node_modules/
+
+# Builds y renders pesados
+out/
+**/out/
+*.mp4
+*.MOV
+*.mp3
+*.wav
+*.ogg
+
+# Caches y temporales
+.cache/
+**/.cache/
+*.log
+.DS_Store
+Thumbs.db
