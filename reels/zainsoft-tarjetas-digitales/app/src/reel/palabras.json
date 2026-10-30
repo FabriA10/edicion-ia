@@ -1,0 +1,446 @@
+[
+  {
+    "text": "Esta",
+    "startMs": 60,
+    "endMs": 390,
+    "frase": 0
+  },
+  {
+    "text": " invitación",
+    "startMs": 390,
+    "endMs": 1000,
+    "frase": 0
+  },
+  {
+    "text": " de",
+    "startMs": 1000,
+    "endMs": 1250,
+    "frase": 0
+  },
+  {
+    "text": " quince",
+    "startMs": 1250,
+    "endMs": 1420,
+    "frase": 0
+  },
+  {
+    "text": " no",
+    "startMs": 1420,
+    "endMs": 1700,
+    "frase": 0
+  },
+  {
+    "text": " se",
+    "startMs": 1700,
+    "endMs": 1770,
+    "frase": 0
+  },
+  {
+    "text": " imprime.",
+    "startMs": 1770,
+    "endMs": 2200,
+    "frase": 0
+  },
+  {
+    "text": " Se",
+    "startMs": 2570,
+    "endMs": 2630,
+    "frase": 1
+  },
+  {
+    "text": " abre",
+    "startMs": 2630,
+    "endMs": 3040,
+    "frase": 1
+  },
+  {
+    "text": " así.",
+    "startMs": 3040,
+    "endMs": 3240,
+    "frase": 1
+  },
+  {
+    "text": " Es",
+    "startMs": 3590,
+    "endMs": 3680,
+    "frase": 2
+  },
+  {
+    "text": " una",
+    "startMs": 3680,
+    "endMs": 4100,
+    "frase": 2
+  },
+  {
+    "text": " web:",
+    "startMs": 4100,
+    "endMs": 4180,
+    "frase": 2
+  },
+  {
+    "text": " tus",
+    "startMs": 4580,
+    "endMs": 4680,
+    "frase": 3
+  },
+  {
+    "text": " invitados",
+    "startMs": 4680,
+    "endMs": 5240,
+    "frase": 3
+  },
+  {
+    "text": " la",
+    "startMs": 5240,
+    "endMs": 5320,
+    "frase": 3
+  },
+  {
+    "text": " abren",
+    "startMs": 5320,
+    "endMs": 5730,
+    "frase": 3
+  },
+  {
+    "text": " desde",
+    "startMs": 5730,
+    "endMs": 5900,
+    "frase": 3
+  },
+  {
+    "text": " el",
+    "startMs": 5900,
+    "endMs": 6050,
+    "frase": 3
+  },
+  {
+    "text": " celular.",
+    "startMs": 6050,
+    "endMs": 6470,
+    "frase": 3
+  },
+  {
+    "text": " Tiene",
+    "startMs": 6850,
+    "endMs": 7100,
+    "frase": 4
+  },
+  {
+    "text": " cuenta",
+    "startMs": 7100,
+    "endMs": 7530,
+    "frase": 4
+  },
+  {
+    "text": " regresiva,",
+    "startMs": 7530,
+    "endMs": 8180,
+    "frase": 4
+  },
+  {
+    "text": " cómo",
+    "startMs": 8180,
+    "endMs": 8470,
+    "frase": 4
+  },
+  {
+    "text": " llegar",
+    "startMs": 8470,
+    "endMs": 8860,
+    "frase": 4
+  },
+  {
+    "text": " y",
+    "startMs": 8860,
+    "endMs": 8920,
+    "frase": 4
+  },
+  {
+    "text": " el",
+    "startMs": 8920,
+    "endMs": 9160,
+    "frase": 4
+  },
+  {
+    "text": " alias",
+    "startMs": 9160,
+    "endMs": 9480,
+    "frase": 4
+  },
+  {
+    "text": " para",
+    "startMs": 9480,
+    "endMs": 9740,
+    "frase": 4
+  },
+  {
+    "text": " el",
+    "startMs": 9740,
+    "endMs": 9990,
+    "frase": 4
+  },
+  {
+    "text": " regalo.",
+    "startMs": 9990,
+    "endMs": 10410,
+    "frase": 4
+  },
+  {
+    "text": " Y",
+    "startMs": 10690,
+    "endMs": 10800,
+    "frase": 5
+  },
+  {
+    "text": " confirman",
+    "startMs": 10800,
+    "endMs": 11440,
+    "frase": 5
+  },
+  {
+    "text": " por",
+    "startMs": 11440,
+    "endMs": 11610,
+    "frase": 5
+  },
+  {
+    "text": " WhatsApp,",
+    "startMs": 11610,
+    "endMs": 12200,
+    "frase": 5
+  },
+  {
+    "text": " hasta",
+    "startMs": 12200,
+    "endMs": 12420,
+    "frase": 5
+  },
+  {
+    "text": " con",
+    "startMs": 12420,
+    "endMs": 12720,
+    "frase": 5
+  },
+  {
+    "text": " la",
+    "startMs": 12720,
+    "endMs": 12910,
+    "frase": 5
+  },
+  {
+    "text": " canción",
+    "startMs": 12910,
+    "endMs": 13350,
+    "frase": 5
+  },
+  {
+    "text": " que",
+    "startMs": 13350,
+    "endMs": 13500,
+    "frase": 5
+  },
+  {
+    "text": " no",
+    "startMs": 13500,
+    "endMs": 13810,
+    "frase": 5
+  },
+  {
+    "text": " puede",
+    "startMs": 13810,
+    "endMs": 14090,
+    "frase": 5
+  },
+  {
+    "text": " faltar.",
+    "startMs": 14090,
+    "endMs": 14460,
+    "frase": 5
+  },
+  {
+    "text": " Sin",
+    "startMs": 14800,
+    "endMs": 15030,
+    "frase": 6
+  },
+  {
+    "text": " perseguir",
+    "startMs": 15030,
+    "endMs": 15390,
+    "frase": 6
+  },
+  {
+    "text": " a",
+    "startMs": 15390,
+    "endMs": 15520,
+    "frase": 6
+  },
+  {
+    "text": " nadie",
+    "startMs": 15520,
+    "endMs": 15940,
+    "frase": 6
+  },
+  {
+    "text": " para",
+    "startMs": 15940,
+    "endMs": 16150,
+    "frase": 6
+  },
+  {
+    "text": " saber",
+    "startMs": 16150,
+    "endMs": 16500,
+    "frase": 6
+  },
+  {
+    "text": " quién",
+    "startMs": 16500,
+    "endMs": 16870,
+    "frase": 6
+  },
+  {
+    "text": " va.",
+    "startMs": 16870,
+    "endMs": 17010,
+    "frase": 6
+  },
+  {
+    "text": " La",
+    "startMs": 17380,
+    "endMs": 17580,
+    "frase": 7
+  },
+  {
+    "text": " hacemos",
+    "startMs": 17580,
+    "endMs": 18100,
+    "frase": 7
+  },
+  {
+    "text": " para",
+    "startMs": 18100,
+    "endMs": 18440,
+    "frase": 7
+  },
+  {
+    "text": " quince,",
+    "startMs": 18440,
+    "endMs": 18790,
+    "frase": 7
+  },
+  {
+    "text": " casamientos",
+    "startMs": 18790,
+    "endMs": 19540,
+    "frase": 7
+  },
+  {
+    "text": " o",
+    "startMs": 19540,
+    "endMs": 19700,
+    "frase": 7
+  },
+  {
+    "text": " baby",
+    "startMs": 19700,
+    "endMs": 20020,
+    "frase": 7
+  },
+  {
+    "text": " showers:",
+    "startMs": 20020,
+    "endMs": 20350,
+    "frase": 7
+  },
+  {
+    "text": " a",
+    "startMs": 20620,
+    "endMs": 20740,
+    "frase": 8
+  },
+  {
+    "text": " tu",
+    "startMs": 20740,
+    "endMs": 20920,
+    "frase": 8
+  },
+  {
+    "text": " estilo.",
+    "startMs": 20920,
+    "endMs": 21210,
+    "frase": 8
+  },
+  {
+    "text": " ¿Tenés",
+    "startMs": 21570,
+    "endMs": 21780,
+    "frase": 9
+  },
+  {
+    "text": " un",
+    "startMs": 21780,
+    "endMs": 21970,
+    "frase": 9
+  },
+  {
+    "text": " evento?",
+    "startMs": 21970,
+    "endMs": 22310,
+    "frase": 9
+  },
+  {
+    "text": " Pedí",
+    "startMs": 22600,
+    "endMs": 22960,
+    "frase": 10
+  },
+  {
+    "text": " la",
+    "startMs": 22960,
+    "endMs": 22990,
+    "frase": 10
+  },
+  {
+    "text": " tuya",
+    "startMs": 22990,
+    "endMs": 23400,
+    "frase": 10
+  },
+  {
+    "text": " desde",
+    "startMs": 23400,
+    "endMs": 23690,
+    "frase": 10
+  },
+  {
+    "text": " el",
+    "startMs": 23690,
+    "endMs": 23840,
+    "frase": 10
+  },
+  {
+    "text": " link",
+    "startMs": 23840,
+    "endMs": 23870,
+    "frase": 10
+  },
+  {
+    "text": " en",
+    "startMs": 23870,
+    "endMs": 24110,
+    "frase": 10
+  },
+  {
+    "text": " la",
+    "startMs": 24110,
+    "endMs": 24270,
+    "frase": 10
+  },
+  {
+    "text": " bio.",
+    "startMs": 24270,
+    "endMs": 24350,
+    "frase": 10
+  }
+]

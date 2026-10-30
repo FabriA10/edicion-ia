@@ -7,6 +7,12 @@
 | 2 | **Cómo se construye un sistema** (ciclo de vida: relevamiento → diseño → desarrollo y documentación → implementación → mantenimiento; `zainsoft-sistema-02-estructura/`) | **Hecho y APROBADO por el revisor** (2026-10-20): `out/final.mp4` (43,4 s, −14,5 LUFS, true peak −3,9 dBTP), `out/portada.png` (provisoria, con subtítulo), `PUBLICACION.md`. Falta: que el usuario lo escuche; detalle no bloqueante en 0,3-0,5 s (el techo del edificio tapa «de un día»), arreglable en una v02. El tema de las 4 piezas quedó en `descartado/`. |
 | 3 | **A definir** (el plan original «cómo lo construimos» se superpone con el reel 2). Candidatos: caso Pierina Glow o las 4 piezas (`zainsoft-sistema-02-estructura/descartado/`). | El usuario lo define después. |
 
+## Reel suelto «Esta invitación no se imprime» (tarjetas digitales, 2026-10-30)
+`zainsoft-tarjetas-digitales/`: **hecho**, `out/final.mp4` (28,0 s, −14,5 LUFS, pico −4,3 dBFS), `out/portada.png`, `PUBLICACION.md`, `CREDITOS.md`.
+Voz Armaan, fondo crema, Bit, capturas reales de las 3 tarjetas de la web (sacadas cuadro a cuadro con Playwright; ver `app/public/tarjetas/`).
+Falta: que el usuario lo vea y escuche completo. Pasó la revisión de cuadros y de fantasmas en los tramos con rebote (CTA y confirmaciones); no se pasó por `revisor-calidad-reel`.
+Trampa aprendida: una captura `fullPage` de una página con fondo `fixed` sale blanca después de la primera pantalla; hay que fijar el fondo por CSS antes de capturar.
+
 ## Pendientes abiertos (del reel 1)
 1. El usuario debe escuchar el video completo (no pude oírlo) y mirar el segundo ~16 (barra de ventas, único tramo donde dos renders difirieron levemente).
 2. Licencias sin confirmar: voz «Armaan» de ElevenLabs (uso comercial en su plan), fuente Hando, sonidos `poof.aac` y `flash.aac`.
