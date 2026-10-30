@@ -27,3 +27,6 @@ mi-video/trabajo/
 *.exe
 *.dll
 
+
+# Cuadros de verificacion temporales de cada reel
+reels/*/app/trabajo/

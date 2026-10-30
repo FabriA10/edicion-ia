@@ -1,0 +1,596 @@
+[
+  {
+    "text": "¿Pensás",
+    "startMs": 90,
+    "endMs": 480,
+    "frase": 0
+  },
+  {
+    "text": " que",
+    "startMs": 480,
+    "endMs": 510,
+    "frase": 0
+  },
+  {
+    "text": " en",
+    "startMs": 510,
+    "endMs": 750,
+    "frase": 0
+  },
+  {
+    "text": " ZainSoft",
+    "startMs": 750,
+    "endMs": 1260,
+    "frase": 0
+  },
+  {
+    "text": " solamente",
+    "startMs": 1260,
+    "endMs": 1820,
+    "frase": 0
+  },
+  {
+    "text": " hacemos",
+    "startMs": 1820,
+    "endMs": 2250,
+    "frase": 0
+  },
+  {
+    "text": " páginas",
+    "startMs": 2250,
+    "endMs": 2840,
+    "frase": 0
+  },
+  {
+    "text": " web?",
+    "startMs": 2840,
+    "endMs": 2930,
+    "frase": 0
+  },
+  {
+    "text": " Casi.",
+    "startMs": 3490,
+    "endMs": 3830,
+    "frase": 1
+  },
+  {
+    "text": " Hacemos",
+    "startMs": 4330,
+    "endMs": 4850,
+    "frase": 2
+  },
+  {
+    "text": " sistemas.",
+    "startMs": 4850,
+    "endMs": 5230,
+    "frase": 2
+  },
+  {
+    "text": " Una",
+    "startMs": 5780,
+    "endMs": 6210,
+    "frase": 3
+  },
+  {
+    "text": " web",
+    "startMs": 6210,
+    "endMs": 6330,
+    "frase": 3
+  },
+  {
+    "text": " es",
+    "startMs": 6330,
+    "endMs": 6490,
+    "frase": 3
+  },
+  {
+    "text": " la",
+    "startMs": 6490,
+    "endMs": 6660,
+    "frase": 3
+  },
+  {
+    "text": " vidriera.",
+    "startMs": 6660,
+    "endMs": 7200,
+    "frase": 3
+  },
+  {
+    "text": " Un",
+    "startMs": 7670,
+    "endMs": 7790,
+    "frase": 4
+  },
+  {
+    "text": " sistema",
+    "startMs": 7790,
+    "endMs": 8330,
+    "frase": 4
+  },
+  {
+    "text": " es",
+    "startMs": 8330,
+    "endMs": 8520,
+    "frase": 4
+  },
+  {
+    "text": " todo",
+    "startMs": 8520,
+    "endMs": 8840,
+    "frase": 4
+  },
+  {
+    "text": " el",
+    "startMs": 8840,
+    "endMs": 8870,
+    "frase": 4
+  },
+  {
+    "text": " negocio",
+    "startMs": 8870,
+    "endMs": 9440,
+    "frase": 4
+  },
+  {
+    "text": " funcionando",
+    "startMs": 9440,
+    "endMs": 9990,
+    "frase": 4
+  },
+  {
+    "text": " por",
+    "startMs": 9990,
+    "endMs": 10250,
+    "frase": 4
+  },
+  {
+    "text": " detrás.",
+    "startMs": 10250,
+    "endMs": 10490,
+    "frase": 4
+  },
+  {
+    "text": " En",
+    "startMs": 11000,
+    "endMs": 11170,
+    "frase": 5
+  },
+  {
+    "text": " una",
+    "startMs": 11170,
+    "endMs": 11470,
+    "frase": 5
+  },
+  {
+    "text": " tienda",
+    "startMs": 11470,
+    "endMs": 11690,
+    "frase": 5
+  },
+  {
+    "text": " de",
+    "startMs": 11690,
+    "endMs": 11910,
+    "frase": 5
+  },
+  {
+    "text": " ropa,",
+    "startMs": 11910,
+    "endMs": 12140,
+    "frase": 5
+  },
+  {
+    "text": " lleva",
+    "startMs": 12140,
+    "endMs": 12580,
+    "frase": 5
+  },
+  {
+    "text": " el",
+    "startMs": 12580,
+    "endMs": 12690,
+    "frase": 5
+  },
+  {
+    "text": " stock,",
+    "startMs": 12690,
+    "endMs": 12960,
+    "frase": 5
+  },
+  {
+    "text": " recibe",
+    "startMs": 12960,
+    "endMs": 13370,
+    "frase": 5
+  },
+  {
+    "text": " los",
+    "startMs": 13370,
+    "endMs": 13640,
+    "frase": 5
+  },
+  {
+    "text": " pedidos",
+    "startMs": 13640,
+    "endMs": 14040,
+    "frase": 5
+  },
+  {
+    "text": " por",
+    "startMs": 14040,
+    "endMs": 14150,
+    "frase": 5
+  },
+  {
+    "text": " WhatsApp",
+    "startMs": 14150,
+    "endMs": 14700,
+    "frase": 5
+  },
+  {
+    "text": " y",
+    "startMs": 14700,
+    "endMs": 14760,
+    "frase": 5
+  },
+  {
+    "text": " le",
+    "startMs": 14760,
+    "endMs": 14990,
+    "frase": 5
+  },
+  {
+    "text": " muestra",
+    "startMs": 14990,
+    "endMs": 15260,
+    "frase": 5
+  },
+  {
+    "text": " a",
+    "startMs": 15260,
+    "endMs": 15310,
+    "frase": 5
+  },
+  {
+    "text": " la",
+    "startMs": 15310,
+    "endMs": 15460,
+    "frase": 5
+  },
+  {
+    "text": " dueña",
+    "startMs": 15460,
+    "endMs": 15900,
+    "frase": 5
+  },
+  {
+    "text": " cuánto",
+    "startMs": 15900,
+    "endMs": 16280,
+    "frase": 5
+  },
+  {
+    "text": " vendió.",
+    "startMs": 16280,
+    "endMs": 16740,
+    "frase": 5
+  },
+  {
+    "text": " En",
+    "startMs": 17270,
+    "endMs": 17460,
+    "frase": 6
+  },
+  {
+    "text": " un",
+    "startMs": 17460,
+    "endMs": 17600,
+    "frase": 6
+  },
+  {
+    "text": " complejo",
+    "startMs": 17600,
+    "endMs": 18180,
+    "frase": 6
+  },
+  {
+    "text": " de",
+    "startMs": 18180,
+    "endMs": 18210,
+    "frase": 6
+  },
+  {
+    "text": " canchas,",
+    "startMs": 18210,
+    "endMs": 18550,
+    "frase": 6
+  },
+  {
+    "text": " ordena",
+    "startMs": 18550,
+    "endMs": 19080,
+    "frase": 6
+  },
+  {
+    "text": " los",
+    "startMs": 19080,
+    "endMs": 19260,
+    "frase": 6
+  },
+  {
+    "text": " turnos",
+    "startMs": 19260,
+    "endMs": 19550,
+    "frase": 6
+  },
+  {
+    "text": " y",
+    "startMs": 19550,
+    "endMs": 19720,
+    "frase": 6
+  },
+  {
+    "text": " no",
+    "startMs": 19720,
+    "endMs": 20000,
+    "frase": 6
+  },
+  {
+    "text": " deja",
+    "startMs": 20000,
+    "endMs": 20230,
+    "frase": 6
+  },
+  {
+    "text": " que",
+    "startMs": 20230,
+    "endMs": 20450,
+    "frase": 6
+  },
+  {
+    "text": " se",
+    "startMs": 20450,
+    "endMs": 20610,
+    "frase": 6
+  },
+  {
+    "text": " pisen.",
+    "startMs": 20610,
+    "endMs": 20970,
+    "frase": 6
+  },
+  {
+    "text": " En",
+    "startMs": 21490,
+    "endMs": 21720,
+    "frase": 7
+  },
+  {
+    "text": " un",
+    "startMs": 21720,
+    "endMs": 21840,
+    "frase": 7
+  },
+  {
+    "text": " restaurante,",
+    "startMs": 21840,
+    "endMs": 22430,
+    "frase": 7
+  },
+  {
+    "text": " la",
+    "startMs": 22430,
+    "endMs": 22670,
+    "frase": 7
+  },
+  {
+    "text": " cocina",
+    "startMs": 22670,
+    "endMs": 23160,
+    "frase": 7
+  },
+  {
+    "text": " y",
+    "startMs": 23160,
+    "endMs": 23320,
+    "frase": 7
+  },
+  {
+    "text": " la",
+    "startMs": 23320,
+    "endMs": 23460,
+    "frase": 7
+  },
+  {
+    "text": " caja",
+    "startMs": 23460,
+    "endMs": 23720,
+    "frase": 7
+  },
+  {
+    "text": " hablan",
+    "startMs": 23720,
+    "endMs": 24070,
+    "frase": 7
+  },
+  {
+    "text": " entre",
+    "startMs": 24070,
+    "endMs": 24370,
+    "frase": 7
+  },
+  {
+    "text": " sí.",
+    "startMs": 24370,
+    "endMs": 24560,
+    "frase": 7
+  },
+  {
+    "text": " Mismo",
+    "startMs": 25020,
+    "endMs": 25410,
+    "frase": 8
+  },
+  {
+    "text": " concepto,",
+    "startMs": 25410,
+    "endMs": 26080,
+    "frase": 8
+  },
+  {
+    "text": " distinto",
+    "startMs": 26080,
+    "endMs": 26680,
+    "frase": 8
+  },
+  {
+    "text": " negocio.",
+    "startMs": 26680,
+    "endMs": 27230,
+    "frase": 8
+  },
+  {
+    "text": " Nada",
+    "startMs": 27560,
+    "endMs": 27970,
+    "frase": 9
+  },
+  {
+    "text": " de",
+    "startMs": 27970,
+    "endMs": 28130,
+    "frase": 9
+  },
+  {
+    "text": " plantillas:",
+    "startMs": 28130,
+    "endMs": 28660,
+    "frase": 9
+  },
+  {
+    "text": " se",
+    "startMs": 28660,
+    "endMs": 28820,
+    "frase": 10
+  },
+  {
+    "text": " arma",
+    "startMs": 28820,
+    "endMs": 29140,
+    "frase": 10
+  },
+  {
+    "text": " a",
+    "startMs": 29140,
+    "endMs": 29210,
+    "frase": 10
+  },
+  {
+    "text": " medida",
+    "startMs": 29210,
+    "endMs": 29830,
+    "frase": 10
+  },
+  {
+    "text": " de",
+    "startMs": 29830,
+    "endMs": 30030,
+    "frase": 10
+  },
+  {
+    "text": " cómo",
+    "startMs": 30030,
+    "endMs": 30370,
+    "frase": 10
+  },
+  {
+    "text": " trabajás",
+    "startMs": 30370,
+    "endMs": 30800,
+    "frase": 10
+  },
+  {
+    "text": " vos.",
+    "startMs": 30800,
+    "endMs": 30990,
+    "frase": 10
+  },
+  {
+    "text": " En",
+    "startMs": 31550,
+    "endMs": 31760,
+    "frase": 11
+  },
+  {
+    "text": " el",
+    "startMs": 31760,
+    "endMs": 31790,
+    "frase": 11
+  },
+  {
+    "text": " próximo",
+    "startMs": 31790,
+    "endMs": 32260,
+    "frase": 11
+  },
+  {
+    "text": " te",
+    "startMs": 32260,
+    "endMs": 32300,
+    "frase": 11
+  },
+  {
+    "text": " muestro",
+    "startMs": 32300,
+    "endMs": 32720,
+    "frase": 11
+  },
+  {
+    "text": " cómo",
+    "startMs": 32720,
+    "endMs": 32900,
+    "frase": 11
+  },
+  {
+    "text": " se",
+    "startMs": 32900,
+    "endMs": 33040,
+    "frase": 11
+  },
+  {
+    "text": " estructura.",
+    "startMs": 33040,
+    "endMs": 33610,
+    "frase": 11
+  },
+  {
+    "text": " Seguinos",
+    "startMs": 33980,
+    "endMs": 34440,
+    "frase": 12
+  },
+  {
+    "text": " y",
+    "startMs": 34440,
+    "endMs": 34560,
+    "frase": 12
+  },
+  {
+    "text": " escribinos",
+    "startMs": 34560,
+    "endMs": 35060,
+    "frase": 12
+  },
+  {
+    "text": " por",
+    "startMs": 35060,
+    "endMs": 35200,
+    "frase": 12
+  },
+  {
+    "text": " DM.",
+    "startMs": 35200,
+    "endMs": 35690,
+    "frase": 12
+  }
+]

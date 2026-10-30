@@ -1,0 +1,13 @@
+Un sistema es un edificio de cuatro piezas. Si falta una, se cae.
+
+La fachada es lo que ve tu cliente: en una tienda de ropa, el catálogo y el pedido.
+
+La administración es tu panel. En un complejo de canchas, ves y controlás todos los turnos.
+
+El archivo es la memoria del negocio. En un restaurante: clientes, pedidos y stock, ordenados.
+
+Y el timbre avisa por WhatsApp, solo, cuando entra un pedido o se reserva un turno.
+
+Cuatro piezas conectadas. Eso es un sistema.
+
+En el próximo, cómo lo construimos para tu negocio. Seguinos y escribinos por DM.
