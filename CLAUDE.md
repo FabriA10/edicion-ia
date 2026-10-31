@@ -42,6 +42,7 @@ usuario lo pide (p. ej. "solo edita este video").
 - `docs/estilo-visual-reels.md` : paletas de fondo (claro crema aprobado / oscuro), tokens y regla de preguntar el fondo.
 - `docs/aprendizajes-equipo.md` : lo que el equipo aprendió haciendo el reel de Bit/Pierina (leer antes de producir). Se actualiza con cada `git pull`.
 - `reels/_plantilla/BRIEF.md` : plantilla del brief.
+- `docs/guion-cinematografico.md` : estructura de alta retención (gancho, promesa, actos, bucles abiertos, CTA) y cómo lograr un look de película.
 - `docs/reels-sin-rostros.md` : formato de Instagram, zona segura, técnicas sin rostros, licencias.
 - `criterio/`, `.claude/skills/`, `sonidos/`, `musica/`, `marca/`, `referencias/` : del repo base.
 - `CONOCIMIENTOS.md` : índice del repo base (algunas rutas son de otra PC).

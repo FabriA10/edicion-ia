@@ -3,6 +3,7 @@ import {Composition} from 'remotion';
 import {BitPromoReel, TOTAL_FRAMES} from './BitPromoReel';
 import {BitMixedReality} from './BitMixedReality';
 import {PierinaReel} from './PierinaReel';
+import {OctubreNegroReel, OCTUBRE_FRAMES} from './OctubreNegroReel';
 import {BitStudioReel, BIT_STUDIO_FRAMES} from './BitStudioReel';
 import {BitRigTest, BIT_RIG_TEST_FRAMES} from './BitRigTest';
 import {PierinaBitReel, PIERINA_BIT_FRAMES} from './PierinaBitReel';
@@ -54,6 +55,14 @@ export const RemotionRoot: React.FC = () => {
 				id="BitStudioReel"
 				component={BitStudioReel}
 				durationInFrames={BIT_STUDIO_FRAMES}
+				fps={30}
+				width={1080}
+				height={1920}
+			/>
+			<Composition
+				id="OctubreNegroReel"
+				component={OctubreNegroReel}
+				durationInFrames={OCTUBRE_FRAMES}
 				fps={30}
 				width={1080}
 				height={1920}

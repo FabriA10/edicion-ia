@@ -13,6 +13,17 @@ Voz Armaan, fondo crema, Bit, capturas reales de las 3 tarjetas de la web (sacad
 Falta: que el usuario lo vea y escuche completo. Pasó la revisión de cuadros y de fantasmas en los tramos con rebote (CTA y confirmaciones); no se pasó por `revisor-calidad-reel`.
 Trampa aprendida: una captura `fullPage` de una página con fondo `fixed` sale blanca después de la primera pantalla; hay que fijar el fondo por CSS antes de capturar.
 
+## Reel «Una sola computadora» (hackeo a Binance + semana de hackeos, 2026-10-31) — EN CURSO, lo sigue otro compañero
+`zainsoft-binance-hackeo/`: informativo + publicitario, look de película (`docs/guion-cinematografico.md`), Bit, **fondo todo crema** (confirmado por el usuario).
+- **Hecho:** `BRIEF.md` (aprobado, con fuentes verificadas) y `GUION.md` (8 bloques para ElevenLabs, ≈159 palabras, idea visual por pieza).
+- **Sigue:** 1) generar la voz en ElevenLabs con la misma voz de Bit (texto en `GUION.md`); 2) `STORYBOARD.md` con `guionista-reel`; 3) producir (`productor-video`), editar (−14,5 LUFS) y revisar.
+- **Cuidados:** ZainSoft **no** ofrece ciberseguridad (los consejos son generales); no decir quién fue el atacante (no confirmado); Binance dice que el ataque "podría" haber empezado por la notebook de un ingeniero → en la voz va "habría".
+- Si la voz pasa de 60 s: recortar pausas largas y, como mucho, acelerar ~1,1–1,2× en Remotion (`playbackRate`), como en «Octubre Negro».
+
+## Reel «Octubre Negro» (ola de ciberataques, 2026-10-22) — hecho fuera de esta carpeta
+Composición `mi-video/src/OctubreNegroReel.tsx` (datos en `mi-video/src/octubre/`, capturas en `mi-video/public/octubre/`), 60 s. Arranca oscuro y pasa a crema en "¿Pánico? No."; Bit con un resplandor blanco muy tenue en la parte oscura (el usuario pidió que casi no se note).
+**No está en git (ignorado):** la voz `mi-video/public/bit_voz_octubre_edit.wav` (y la original `bit_voz_octubre.mp3`), el guion `cosas de mi video/guion-voz-octubre-negro.md` y el render. Hay que pedírselos al equipo para volver a renderizar. Falta pasarlo por edición (quedó en pico −2,2 dB, sin medir LUFS) y por revisión.
+
 ## Pendientes abiertos (del reel 1)
 1. El usuario debe escuchar el video completo (no pude oírlo) y mirar el segundo ~16 (barra de ventas, único tramo donde dos renders difirieron levemente).
 2. Licencias sin confirmar: voz «Armaan» de ElevenLabs (uso comercial en su plan), fuente Hando, sonidos `poof.aac` y `flash.aac`.

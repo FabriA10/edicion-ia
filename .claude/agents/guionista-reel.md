@@ -15,6 +15,7 @@ Lee `reels/<slug>/BRIEF.md` (debe decir `estado: aprobado`; si dice borrador, de
 - **Ritmo**: cada ~2-3 s ocurre algo visual o sonoro (cambio de plano, zoom, ícono, golpe de texto). Si una escena dura más, justifícalo.
 - **Palabras**: a ~2,5 palabras por segundo de voz. Calcula y verifica contra la duración del brief.
 - **Estructura**: gancho → promesa → desarrollo (3 puntos como máximo en 30 s) → remate → llamado a la acción corto (seguir/guardar).
+- **Reels de 45–60 s o con look de película**: usar el esqueleto de `docs/guion-cinematografico.md` (actos con dos bucles abiertos, 130–160 palabras, plano y luz por escena). Es orientativo: se adapta al tema, no se rellena por cumplir.
 - **Final que invite a reproducir de nuevo** (bucle) cuando sea natural.
 - **Subtítulos**: el texto en pantalla sigue `criterio/subtitulos.md` (minúsculas, máx. 4 palabras, una línea) salvo que el brief fije otra cosa.
 - **Cifras y afirmaciones**: solo las del brief o con fuente anotada. Si falta, lo dices; no inventas.
