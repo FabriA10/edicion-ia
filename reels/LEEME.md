@@ -20,9 +20,9 @@ Trampa aprendida: una captura `fullPage` de una página con fondo `fixed` sale b
 - **Cuidados:** ZainSoft **no** ofrece ciberseguridad (los consejos son generales); no decir quién fue el atacante (no confirmado); Binance dice que el ataque "podría" haber empezado por la notebook de un ingeniero → en la voz va "habría".
 - Si la voz pasa de 60 s: recortar pausas largas y, como mucho, acelerar ~1,1–1,2× en Remotion (`playbackRate`), como en «Octubre Negro».
 
-## Reel «Octubre Negro» (ola de ciberataques, 2026-10-22) — hecho fuera de esta carpeta
-Composición `mi-video/src/OctubreNegroReel.tsx` (datos en `mi-video/src/octubre/`, capturas en `mi-video/public/octubre/`), 60 s. Arranca oscuro y pasa a crema en "¿Pánico? No."; Bit con un resplandor blanco muy tenue en la parte oscura (el usuario pidió que casi no se note).
-**No está en git (ignorado):** la voz `mi-video/public/bit_voz_octubre_edit.wav` (y la original `bit_voz_octubre.mp3`), el guion `cosas de mi video/guion-voz-octubre-negro.md` y el render. Hay que pedírselos al equipo para volver a renderizar. Falta pasarlo por edición (quedó en pico −2,2 dB, sin medir LUFS) y por revisión.
+## Reel «Octubre Negro» (ola de ciberataques, 2026-10-22) — TERMINADO, no hay que tocarlo
+Composición `mi-video/src/OctubreNegroReel.tsx` (datos en `mi-video/src/octubre/`, capturas en `mi-video/public/octubre/`), 60 s. Arranca oscuro y pasa a crema en "¿Pánico? No.".
+Queda como referencia de estilo para el reel de Binance. La voz y el render no están en git (ignorados).
 
 ## Pendientes abiertos (del reel 1)
 1. El usuario debe escuchar el video completo (no pude oírlo) y mirar el segundo ~16 (barra de ventas, único tramo donde dos renders difirieron levemente).
