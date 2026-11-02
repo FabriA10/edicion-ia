@@ -13,12 +13,14 @@ Voz Armaan, fondo crema, Bit, capturas reales de las 3 tarjetas de la web (sacad
 Falta: que el usuario lo vea y escuche completo. Pasó la revisión de cuadros y de fantasmas en los tramos con rebote (CTA y confirmaciones); no se pasó por `revisor-calidad-reel`.
 Trampa aprendida: una captura `fullPage` de una página con fondo `fixed` sale blanca después de la primera pantalla; hay que fijar el fondo por CSS antes de capturar.
 
-## Reel «Una sola computadora» (hackeo a Binance + semana de hackeos, 2026-10-31) — EN CURSO, lo sigue otro compañero
-`zainsoft-binance-hackeo/`: informativo + publicitario, look de película (`docs/guion-cinematografico.md`), Bit, **fondo todo crema** (confirmado por el usuario).
-- **Hecho:** `BRIEF.md` (aprobado, con fuentes verificadas) y `GUION.md` (8 bloques para ElevenLabs, ≈159 palabras, idea visual por pieza).
-- **Sigue:** 1) generar la voz en ElevenLabs con la misma voz de Bit (texto en `GUION.md`); 2) `STORYBOARD.md` con `guionista-reel`; 3) producir (`productor-video`), editar (−14,5 LUFS) y revisar.
-- **Cuidados:** ZainSoft **no** ofrece ciberseguridad (los consejos son generales); no decir quién fue el atacante (no confirmado); Binance dice que el ataque "podría" haber empezado por la notebook de un ingeniero → en la voz va "habría".
-- Si la voz pasa de 60 s: recortar pausas largas y, como mucho, acelerar ~1,1–1,2× en Remotion (`playbackRate`), como en «Octubre Negro».
+## Reel «Una sola computadora» (hackeo a Binance + semana de hackeos, 2026-10-31) — HECHO
+`zainsoft-binance-hackeo/`: `out/final.mp4` (59,5 s, −14,5 LUFS, pico −3,2 dBFS, **con música**; viene de `out/v03.mp4`), `out/portada.png`, `STORYBOARD.md`, `CREDITOS.md`, `PUBLICACION.md`.
+Composición `app/src/reel/BinanceReel.tsx`, fondo crema con viñeta y luz que se vuelve cálida en el giro. Voz de 57,4 s sin acelerar.
+- Capturas citadas (`app/public/capturas/`): diapositiva 4 del post de @ingenia.ai, titulares de Infobae (30/10), BleepingComputer (Polymarket, 29/10) y Tokyo Reporter (GMO, 26/10). El comunicado oficial de Binance está en X y no se pudo capturar sin sesión.
+- Aclaración en pantalla: «primer informe de Binance · 29/10» + titular «un ataque complejo» con sello ACTUALIZACIÓN 30/10 (Binance amplió la versión de la notebook).
+- Falta: que el usuario lo vea y escuche completo. Fantasmas revisados en los 4 tramos con rebote; no se pasó por `revisor-calidad-reel`.
+- Música: «Grey Square Tension» (leberch, Pixabay) en `audio/musica/`, mezclada en la pasada de cierre con ffmpeg (no en Remotion): lowpass 1,4 kHz hasta 41 s y fundido a la versión completa en 40,9–42,4 s, pozo de −3 dB en 2,2 kHz, sidechain con `voz_master.wav`, cama a −32 LUFS. La voz queda 27–29 dB arriba en 300–3500 Hz. Comandos en el historial de esta sesión; si se cambia la voz hay que rehacer la cama.
+- Alineación: pausas entre frases ≥ 0,36 s y en comas 0,25-0,30 s → `MIN_SIL = 33` en `app/alinear-palabras.mjs`.
 
 ## Reel «Octubre Negro» (ola de ciberataques, 2026-10-22) — TERMINADO, no hay que tocarlo
 Composición `mi-video/src/OctubreNegroReel.tsx` (datos en `mi-video/src/octubre/`, capturas en `mi-video/public/octubre/`), 60 s. Arranca oscuro y pasa a crema en "¿Pánico? No.".

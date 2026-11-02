@@ -1,0 +1,932 @@
+[
+  {
+    "text": "Con",
+    "startMs": 80,
+    "endMs": 240,
+    "frase": 0
+  },
+  {
+    "text": " una",
+    "startMs": 240,
+    "endMs": 560,
+    "frase": 0
+  },
+  {
+    "text": " sola",
+    "startMs": 560,
+    "endMs": 1000,
+    "frase": 0
+  },
+  {
+    "text": " computadora…",
+    "startMs": 1000,
+    "endMs": 1840,
+    "frase": 0
+  },
+  {
+    "text": " robaron",
+    "startMs": 1840,
+    "endMs": 2490,
+    "frase": 0
+  },
+  {
+    "text": " más",
+    "startMs": 2490,
+    "endMs": 2690,
+    "frase": 0
+  },
+  {
+    "text": " de",
+    "startMs": 2690,
+    "endMs": 2760,
+    "frase": 0
+  },
+  {
+    "text": " seis",
+    "startMs": 2760,
+    "endMs": 2980,
+    "frase": 0
+  },
+  {
+    "text": " mil",
+    "startMs": 2980,
+    "endMs": 3270,
+    "frase": 0
+  },
+  {
+    "text": " millones",
+    "startMs": 3270,
+    "endMs": 3680,
+    "frase": 0
+  },
+  {
+    "text": " de",
+    "startMs": 3680,
+    "endMs": 4000,
+    "frase": 0
+  },
+  {
+    "text": " dólares.",
+    "startMs": 4000,
+    "endMs": 4480,
+    "frase": 0
+  },
+  {
+    "text": " Te",
+    "startMs": 5180,
+    "endMs": 5260,
+    "frase": 1
+  },
+  {
+    "text": " cuento",
+    "startMs": 5260,
+    "endMs": 5590,
+    "frase": 1
+  },
+  {
+    "text": " cómo",
+    "startMs": 5590,
+    "endMs": 5880,
+    "frase": 1
+  },
+  {
+    "text": " pasó,",
+    "startMs": 5880,
+    "endMs": 6300,
+    "frase": 1
+  },
+  {
+    "text": " y",
+    "startMs": 6300,
+    "endMs": 6420,
+    "frase": 1
+  },
+  {
+    "text": " qué",
+    "startMs": 6420,
+    "endMs": 6730,
+    "frase": 1
+  },
+  {
+    "text": " tiene",
+    "startMs": 6730,
+    "endMs": 6960,
+    "frase": 1
+  },
+  {
+    "text": " que",
+    "startMs": 6960,
+    "endMs": 7200,
+    "frase": 1
+  },
+  {
+    "text": " ver",
+    "startMs": 7200,
+    "endMs": 7410,
+    "frase": 1
+  },
+  {
+    "text": " con",
+    "startMs": 7410,
+    "endMs": 7470,
+    "frase": 1
+  },
+  {
+    "text": " tu",
+    "startMs": 7470,
+    "endMs": 7610,
+    "frase": 1
+  },
+  {
+    "text": " negocio.",
+    "startMs": 7610,
+    "endMs": 8110,
+    "frase": 1
+  },
+  {
+    "text": " Binance,",
+    "startMs": 8660,
+    "endMs": 9270,
+    "frase": 2
+  },
+  {
+    "text": " la",
+    "startMs": 9270,
+    "endMs": 9340,
+    "frase": 2
+  },
+  {
+    "text": " plataforma",
+    "startMs": 9340,
+    "endMs": 10170,
+    "frase": 2
+  },
+  {
+    "text": " de",
+    "startMs": 10170,
+    "endMs": 10350,
+    "frase": 2
+  },
+  {
+    "text": " criptomonedas",
+    "startMs": 10350,
+    "endMs": 11250,
+    "frase": 2
+  },
+  {
+    "text": " más",
+    "startMs": 11250,
+    "endMs": 11370,
+    "frase": 2
+  },
+  {
+    "text": " grande",
+    "startMs": 11370,
+    "endMs": 11730,
+    "frase": 2
+  },
+  {
+    "text": " del",
+    "startMs": 11730,
+    "endMs": 11870,
+    "frase": 2
+  },
+  {
+    "text": " mundo,",
+    "startMs": 11870,
+    "endMs": 12310,
+    "frase": 2
+  },
+  {
+    "text": " sufrió",
+    "startMs": 12310,
+    "endMs": 12730,
+    "frase": 2
+  },
+  {
+    "text": " el",
+    "startMs": 12730,
+    "endMs": 12980,
+    "frase": 2
+  },
+  {
+    "text": " hackeo",
+    "startMs": 12980,
+    "endMs": 13450,
+    "frase": 2
+  },
+  {
+    "text": " más",
+    "startMs": 13450,
+    "endMs": 13630,
+    "frase": 2
+  },
+  {
+    "text": " grande",
+    "startMs": 13630,
+    "endMs": 14020,
+    "frase": 2
+  },
+  {
+    "text": " de",
+    "startMs": 14020,
+    "endMs": 14210,
+    "frase": 2
+  },
+  {
+    "text": " la",
+    "startMs": 14210,
+    "endMs": 14490,
+    "frase": 2
+  },
+  {
+    "text": " historia.",
+    "startMs": 14490,
+    "endMs": 14960,
+    "frase": 2
+  },
+  {
+    "text": " Según",
+    "startMs": 15510,
+    "endMs": 15870,
+    "frase": 3
+  },
+  {
+    "text": " la",
+    "startMs": 15870,
+    "endMs": 15900,
+    "frase": 3
+  },
+  {
+    "text": " propia",
+    "startMs": 15900,
+    "endMs": 16260,
+    "frase": 3
+  },
+  {
+    "text": " empresa,",
+    "startMs": 16260,
+    "endMs": 16750,
+    "frase": 3
+  },
+  {
+    "text": " todo",
+    "startMs": 16750,
+    "endMs": 17000,
+    "frase": 3
+  },
+  {
+    "text": " habría",
+    "startMs": 17000,
+    "endMs": 17420,
+    "frase": 3
+  },
+  {
+    "text": " empezado",
+    "startMs": 17420,
+    "endMs": 18060,
+    "frase": 3
+  },
+  {
+    "text": " por",
+    "startMs": 18060,
+    "endMs": 18090,
+    "frase": 3
+  },
+  {
+    "text": " la",
+    "startMs": 18090,
+    "endMs": 18340,
+    "frase": 3
+  },
+  {
+    "text": " computadora",
+    "startMs": 18340,
+    "endMs": 18940,
+    "frase": 3
+  },
+  {
+    "text": " de",
+    "startMs": 18940,
+    "endMs": 19190,
+    "frase": 3
+  },
+  {
+    "text": " un",
+    "startMs": 19190,
+    "endMs": 19270,
+    "frase": 3
+  },
+  {
+    "text": " solo",
+    "startMs": 19270,
+    "endMs": 19650,
+    "frase": 3
+  },
+  {
+    "text": " empleado.",
+    "startMs": 19650,
+    "endMs": 20030,
+    "frase": 3
+  },
+  {
+    "text": " Pero",
+    "startMs": 20530,
+    "endMs": 20890,
+    "frase": 4
+  },
+  {
+    "text": " no",
+    "startMs": 20890,
+    "endMs": 20960,
+    "frase": 4
+  },
+  {
+    "text": " fue",
+    "startMs": 20960,
+    "endMs": 21230,
+    "frase": 4
+  },
+  {
+    "text": " el",
+    "startMs": 21230,
+    "endMs": 21260,
+    "frase": 4
+  },
+  {
+    "text": " único...",
+    "startMs": 21260,
+    "endMs": 21800,
+    "frase": 4
+  },
+  {
+    "text": " Esa",
+    "startMs": 22260,
+    "endMs": 22550,
+    "frase": 5
+  },
+  {
+    "text": " misma",
+    "startMs": 22550,
+    "endMs": 22960,
+    "frase": 5
+  },
+  {
+    "text": " semana,",
+    "startMs": 22960,
+    "endMs": 23430,
+    "frase": 5
+  },
+  {
+    "text": " a",
+    "startMs": 23430,
+    "endMs": 23460,
+    "frase": 5
+  },
+  {
+    "text": " Polymarket",
+    "startMs": 23460,
+    "endMs": 24200,
+    "frase": 5
+  },
+  {
+    "text": " le",
+    "startMs": 24200,
+    "endMs": 24340,
+    "frase": 5
+  },
+  {
+    "text": " entraron",
+    "startMs": 24340,
+    "endMs": 24840,
+    "frase": 5
+  },
+  {
+    "text": " por",
+    "startMs": 24840,
+    "endMs": 24990,
+    "frase": 5
+  },
+  {
+    "text": " un",
+    "startMs": 24990,
+    "endMs": 25020,
+    "frase": 5
+  },
+  {
+    "text": " programa",
+    "startMs": 25020,
+    "endMs": 25550,
+    "frase": 5
+  },
+  {
+    "text": " de",
+    "startMs": 25550,
+    "endMs": 25750,
+    "frase": 5
+  },
+  {
+    "text": " un",
+    "startMs": 25750,
+    "endMs": 25850,
+    "frase": 5
+  },
+  {
+    "text": " proveedor.",
+    "startMs": 25850,
+    "endMs": 26340,
+    "frase": 5
+  },
+  {
+    "text": " Y",
+    "startMs": 26770,
+    "endMs": 27010,
+    "frase": 6
+  },
+  {
+    "text": " a",
+    "startMs": 27010,
+    "endMs": 27050,
+    "frase": 6
+  },
+  {
+    "text": " GMO,",
+    "startMs": 27050,
+    "endMs": 27870,
+    "frase": 6
+  },
+  {
+    "text": " en",
+    "startMs": 27870,
+    "endMs": 28040,
+    "frase": 6
+  },
+  {
+    "text": " Japón,",
+    "startMs": 28040,
+    "endMs": 28330,
+    "frase": 6
+  },
+  {
+    "text": " le",
+    "startMs": 28330,
+    "endMs": 28550,
+    "frase": 6
+  },
+  {
+    "text": " pidieron",
+    "startMs": 28550,
+    "endMs": 29100,
+    "frase": 6
+  },
+  {
+    "text": " cincuenta",
+    "startMs": 29100,
+    "endMs": 29480,
+    "frase": 6
+  },
+  {
+    "text": " millones",
+    "startMs": 29480,
+    "endMs": 30030,
+    "frase": 6
+  },
+  {
+    "text": " de",
+    "startMs": 30030,
+    "endMs": 30310,
+    "frase": 6
+  },
+  {
+    "text": " dólares",
+    "startMs": 30310,
+    "endMs": 30840,
+    "frase": 6
+  },
+  {
+    "text": " de",
+    "startMs": 30840,
+    "endMs": 30970,
+    "frase": 6
+  },
+  {
+    "text": " rescate.",
+    "startMs": 30970,
+    "endMs": 31460,
+    "frase": 6
+  },
+  {
+    "text": " ¿Y",
+    "startMs": 31980,
+    "endMs": 32050,
+    "frase": 7
+  },
+  {
+    "text": " sabés",
+    "startMs": 32050,
+    "endMs": 32410,
+    "frase": 7
+  },
+  {
+    "text": " qué",
+    "startMs": 32410,
+    "endMs": 32610,
+    "frase": 7
+  },
+  {
+    "text": " tienen",
+    "startMs": 32610,
+    "endMs": 33010,
+    "frase": 7
+  },
+  {
+    "text": " en",
+    "startMs": 33010,
+    "endMs": 33040,
+    "frase": 7
+  },
+  {
+    "text": " común?",
+    "startMs": 33040,
+    "endMs": 33370,
+    "frase": 7
+  },
+  {
+    "text": " La",
+    "startMs": 33770,
+    "endMs": 33930,
+    "frase": 8
+  },
+  {
+    "text": " tecnología",
+    "startMs": 33930,
+    "endMs": 34810,
+    "frase": 8
+  },
+  {
+    "text": " aguantó.",
+    "startMs": 34810,
+    "endMs": 35260,
+    "frase": 8
+  },
+  {
+    "text": " Lo",
+    "startMs": 35620,
+    "endMs": 35850,
+    "frase": 9
+  },
+  {
+    "text": " que",
+    "startMs": 35850,
+    "endMs": 35880,
+    "frase": 9
+  },
+  {
+    "text": " falló",
+    "startMs": 35880,
+    "endMs": 36310,
+    "frase": 9
+  },
+  {
+    "text": " fue",
+    "startMs": 36310,
+    "endMs": 36370,
+    "frase": 9
+  },
+  {
+    "text": " el",
+    "startMs": 36370,
+    "endMs": 36680,
+    "frase": 9
+  },
+  {
+    "text": " acceso:",
+    "startMs": 36680,
+    "endMs": 37100,
+    "frase": 9
+  },
+  {
+    "text": " una",
+    "startMs": 37520,
+    "endMs": 37870,
+    "frase": 10
+  },
+  {
+    "text": " persona,",
+    "startMs": 37870,
+    "endMs": 38410,
+    "frase": 10
+  },
+  {
+    "text": " un",
+    "startMs": 38410,
+    "endMs": 38580,
+    "frase": 10
+  },
+  {
+    "text": " proveedor,",
+    "startMs": 38580,
+    "endMs": 39200,
+    "frase": 10
+  },
+  {
+    "text": " algo",
+    "startMs": 39200,
+    "endMs": 39580,
+    "frase": 10
+  },
+  {
+    "text": " que",
+    "startMs": 39580,
+    "endMs": 39710,
+    "frase": 10
+  },
+  {
+    "text": " nadie",
+    "startMs": 39710,
+    "endMs": 40200,
+    "frase": 10
+  },
+  {
+    "text": " revisaba.",
+    "startMs": 40200,
+    "endMs": 40870,
+    "frase": 10
+  },
+  {
+    "text": " Y",
+    "startMs": 41340,
+    "endMs": 41480,
+    "frase": 11
+  },
+  {
+    "text": " a",
+    "startMs": 41480,
+    "endMs": 41700,
+    "frase": 11
+  },
+  {
+    "text": " tu",
+    "startMs": 41700,
+    "endMs": 41730,
+    "frase": 11
+  },
+  {
+    "text": " negocio",
+    "startMs": 41730,
+    "endMs": 42220,
+    "frase": 11
+  },
+  {
+    "text": " le",
+    "startMs": 42220,
+    "endMs": 42400,
+    "frase": 11
+  },
+  {
+    "text": " pasa",
+    "startMs": 42400,
+    "endMs": 42610,
+    "frase": 11
+  },
+  {
+    "text": " lo",
+    "startMs": 42610,
+    "endMs": 42830,
+    "frase": 11
+  },
+  {
+    "text": " mismo,",
+    "startMs": 42830,
+    "endMs": 43120,
+    "frase": 11
+  },
+  {
+    "text": " a",
+    "startMs": 43120,
+    "endMs": 43190,
+    "frase": 11
+  },
+  {
+    "text": " otra",
+    "startMs": 43190,
+    "endMs": 43460,
+    "frase": 11
+  },
+  {
+    "text": " escala.",
+    "startMs": 43460,
+    "endMs": 43910,
+    "frase": 11
+  },
+  {
+    "text": " Contraseñas",
+    "startMs": 44410,
+    "endMs": 45000,
+    "frase": 12
+  },
+  {
+    "text": " que",
+    "startMs": 45000,
+    "endMs": 45310,
+    "frase": 12
+  },
+  {
+    "text": " no",
+    "startMs": 45310,
+    "endMs": 45470,
+    "frase": 12
+  },
+  {
+    "text": " se",
+    "startMs": 45470,
+    "endMs": 45500,
+    "frase": 12
+  },
+  {
+    "text": " comparten,",
+    "startMs": 45500,
+    "endMs": 46090,
+    "frase": 12
+  },
+  {
+    "text": " accesos",
+    "startMs": 46090,
+    "endMs": 46580,
+    "frase": 12
+  },
+  {
+    "text": " que",
+    "startMs": 46580,
+    "endMs": 46730,
+    "frase": 12
+  },
+  {
+    "text": " se",
+    "startMs": 46730,
+    "endMs": 46860,
+    "frase": 12
+  },
+  {
+    "text": " cierran",
+    "startMs": 46860,
+    "endMs": 47230,
+    "frase": 12
+  },
+  {
+    "text": " cuando",
+    "startMs": 47230,
+    "endMs": 47610,
+    "frase": 12
+  },
+  {
+    "text": " alguien",
+    "startMs": 47610,
+    "endMs": 47990,
+    "frase": 12
+  },
+  {
+    "text": " se",
+    "startMs": 47990,
+    "endMs": 48140,
+    "frase": 12
+  },
+  {
+    "text": " va...",
+    "startMs": 48140,
+    "endMs": 48370,
+    "frase": 12
+  },
+  {
+    "text": " y",
+    "startMs": 48790,
+    "endMs": 49020,
+    "frase": 13
+  },
+  {
+    "text": " todo",
+    "startMs": 49020,
+    "endMs": 49380,
+    "frase": 13
+  },
+  {
+    "text": " actualizado.",
+    "startMs": 49380,
+    "endMs": 50170,
+    "frase": 13
+  },
+  {
+    "text": " En",
+    "startMs": 50670,
+    "endMs": 50860,
+    "frase": 14
+  },
+  {
+    "text": " ZainSoft",
+    "startMs": 50860,
+    "endMs": 51360,
+    "frase": 14
+  },
+  {
+    "text": " hacemos",
+    "startMs": 51360,
+    "endMs": 51750,
+    "frase": 14
+  },
+  {
+    "text": " webs",
+    "startMs": 51750,
+    "endMs": 51850,
+    "frase": 14
+  },
+  {
+    "text": " y",
+    "startMs": 51850,
+    "endMs": 52080,
+    "frase": 14
+  },
+  {
+    "text": " sistemas",
+    "startMs": 52080,
+    "endMs": 52550,
+    "frase": 14
+  },
+  {
+    "text": " para",
+    "startMs": 52550,
+    "endMs": 52810,
+    "frase": 14
+  },
+  {
+    "text": " negocios,",
+    "startMs": 52810,
+    "endMs": 53340,
+    "frase": 14
+  },
+  {
+    "text": " y",
+    "startMs": 53340,
+    "endMs": 53460,
+    "frase": 14
+  },
+  {
+    "text": " los",
+    "startMs": 53460,
+    "endMs": 53580,
+    "frase": 14
+  },
+  {
+    "text": " mantenemos",
+    "startMs": 53580,
+    "endMs": 54280,
+    "frase": 14
+  },
+  {
+    "text": " al",
+    "startMs": 54280,
+    "endMs": 54460,
+    "frase": 14
+  },
+  {
+    "text": " día.",
+    "startMs": 54460,
+    "endMs": 54720,
+    "frase": 14
+  },
+  {
+    "text": " ¿Querés",
+    "startMs": 55130,
+    "endMs": 55460,
+    "frase": 15
+  },
+  {
+    "text": " el",
+    "startMs": 55460,
+    "endMs": 55490,
+    "frase": 15
+  },
+  {
+    "text": " tuyo?",
+    "startMs": 55490,
+    "endMs": 55770,
+    "frase": 15
+  },
+  {
+    "text": " Escribinos",
+    "startMs": 56130,
+    "endMs": 56680,
+    "frase": 16
+  },
+  {
+    "text": " por",
+    "startMs": 56680,
+    "endMs": 56710,
+    "frase": 16
+  },
+  {
+    "text": " DM.",
+    "startMs": 56710,
+    "endMs": 57210,
+    "frase": 16
+  }
+]
