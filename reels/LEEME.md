@@ -22,6 +22,23 @@ Composición `app/src/reel/BinanceReel.tsx`, fondo crema con viñeta y luz que s
 - Música: «Grey Square Tension» (leberch, Pixabay) en `audio/musica/`, mezclada en la pasada de cierre con ffmpeg (no en Remotion): lowpass 1,4 kHz hasta 41 s y fundido a la versión completa en 40,9–42,4 s, pozo de −3 dB en 2,2 kHz, sidechain con `voz_master.wav`, cama a −32 LUFS. La voz queda 27–29 dB arriba en 300–3500 Hz. Comandos en el historial de esta sesión; si se cambia la voz hay que rehacer la cama.
 - Alineación: pausas entre frases ≥ 0,36 s y en comas 0,25-0,30 s → `MIN_SIL = 33` en `app/alinear-palabras.mjs`.
 
+## Reel «Son las 23 y tu WhatsApp no para» (turnos online, 2026-11-15) — HECHO
+`zainsoft-turnos-online/`: `out/final.mp4` (29,2 s, −14,5 LUFS, pico −4,0 dBFS, **con música**), `out/portada-9x16.png` (1080x1920; todo dentro del 3:4), `BRIEF.md`, `GUION.md`, `STORYBOARD.md`, `CREDITOS.md`, `PUBLICACION.md`.
+Composición `app/src/reel/TurnosReel.tsx`, **todo dibujado en código** (la web no tiene demo de turnos): WhatsApp a las 23:04, sillón vacío «NO VINO», agenda web, agenda del dueño, recordatorio con chips WhatsApp/Mail/SMS, íconos «menos…», poste de barbería. Rubro barbería. Tiempos atados a las palabras de la voz (`at('palabra')`).
+- Marca de WhatsApp y recordatorio por WhatsApp, mail o SMS: aprobados/dados por el usuario (2026-11-15).
+- Voz de Bit en `audio/voz/voz.mp3` (copiada a `audio/voz.mp3`), 28,0 s. Música «Chill Acoustic» (velariomusic, Pixabay) desde 34 s, cama −32 LUFS agachada; **entra recién en 3,0 s**, después de «…no para:» (pedido del usuario: momento tenso sin música). Versión anterior con música desde el inicio: `out/final_v01.mp4`.
+- Portadas: desde este reel se entrega `portada-9x16.png` (la 3:4 se cortaba de costado en la pestaña Reels).
+- Falta: que el usuario lo vea y escuche completo; confirmar el origen de la música. No se pasó por `revisor-calidad-reel`.
+
+## Reel «El menú en PDF que nadie puede leer» (menú digital con QR, 2026-11-05) — HECHO
+`zainsoft-menu-digital/`: `out/final.mp4` (28,2 s, −14,5 LUFS, pico −4,1 dBFS, **con música**; viene de `out/v02.mp4`), `out/portada.png`, `BRIEF.md`, `GUION.md`, `STORYBOARD.md`, `CREDITOS.md`, `PUBLICACION.md`.
+Composición `app/src/reel/MenuReel.tsx`, fondo crema, voz de Bit (27,0 s). **Todos los tiempos salen de las palabras de la voz** (`at('palabra')`): si se cambia la voz, se alinea de nuevo y se renderiza sin tocar escenas.
+- El «celular» es la maqueta de la demo de la web: capturas reales en `app/public/demo/` (m0–m3 y la tarjeta «Así le llega al local por WhatsApp»), medidas en `app/src/menu-medidas.json`. El PDF y el escaneo del QR se dibujan con el mismo marco.
+- El cambio de precio $12.500 → $13.200 es ilustrativo y dice «(ejemplo)»; el QR es decorativo.
+- Música: «Lounge Chill» (velariomusic, Pixabay) desde 22 s, cama a −32 LUFS agachada por la voz (sin filtro oscuro). La voz queda 27 dB arriba en 300–3500 Hz.
+- Corregido en v02: el PDF del gancho se leía perfecto mientras Bit decía «nadie lo puede leer»; ahora es un escaneo borroso y torcido desde el inicio.
+- Falta: que el usuario lo vea y escuche completo; confirmar el origen de la música. No se pasó por `revisor-calidad-reel`.
+
 ## Reel «Octubre Negro» (ola de ciberataques, 2026-10-22) — TERMINADO, no hay que tocarlo
 Composición `mi-video/src/OctubreNegroReel.tsx` (datos en `mi-video/src/octubre/`, capturas en `mi-video/public/octubre/`), 60 s. Arranca oscuro y pasa a crema en "¿Pánico? No.".
 Queda como referencia de estilo para el reel de Binance. La voz y el render no están en git (ignorados).

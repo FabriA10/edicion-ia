@@ -1,0 +1,482 @@
+[
+  {
+    "text": "Son",
+    "startMs": 80,
+    "endMs": 310,
+    "frase": 0
+  },
+  {
+    "text": " las",
+    "startMs": 310,
+    "endMs": 430,
+    "frase": 0
+  },
+  {
+    "text": " once",
+    "startMs": 430,
+    "endMs": 830,
+    "frase": 0
+  },
+  {
+    "text": " de",
+    "startMs": 830,
+    "endMs": 870,
+    "frase": 0
+  },
+  {
+    "text": " la",
+    "startMs": 870,
+    "endMs": 1150,
+    "frase": 0
+  },
+  {
+    "text": " noche",
+    "startMs": 1150,
+    "endMs": 1400,
+    "frase": 0
+  },
+  {
+    "text": " y",
+    "startMs": 1400,
+    "endMs": 1560,
+    "frase": 0
+  },
+  {
+    "text": " tu",
+    "startMs": 1560,
+    "endMs": 1700,
+    "frase": 0
+  },
+  {
+    "text": " WhatsApp",
+    "startMs": 1700,
+    "endMs": 2340,
+    "frase": 0
+  },
+  {
+    "text": " no",
+    "startMs": 2340,
+    "endMs": 2410,
+    "frase": 0
+  },
+  {
+    "text": " para:",
+    "startMs": 2410,
+    "endMs": 2780,
+    "frase": 0
+  },
+  {
+    "text": " ¿tenés",
+    "startMs": 3240,
+    "endMs": 3450,
+    "frase": 1
+  },
+  {
+    "text": " turno",
+    "startMs": 3450,
+    "endMs": 3690,
+    "frase": 1
+  },
+  {
+    "text": " mañana?",
+    "startMs": 3690,
+    "endMs": 4090,
+    "frase": 1
+  },
+  {
+    "text": " Contestás",
+    "startMs": 4550,
+    "endMs": 5080,
+    "frase": 2
+  },
+  {
+    "text": " uno",
+    "startMs": 5080,
+    "endMs": 5440,
+    "frase": 2
+  },
+  {
+    "text": " por",
+    "startMs": 5440,
+    "endMs": 5490,
+    "frase": 2
+  },
+  {
+    "text": " uno,",
+    "startMs": 5490,
+    "endMs": 5920,
+    "frase": 2
+  },
+  {
+    "text": " y",
+    "startMs": 5920,
+    "endMs": 6080,
+    "frase": 2
+  },
+  {
+    "text": " al",
+    "startMs": 6080,
+    "endMs": 6110,
+    "frase": 2
+  },
+  {
+    "text": " otro",
+    "startMs": 6110,
+    "endMs": 6440,
+    "frase": 2
+  },
+  {
+    "text": " día",
+    "startMs": 6440,
+    "endMs": 6900,
+    "frase": 2
+  },
+  {
+    "text": " alguien",
+    "startMs": 6900,
+    "endMs": 7380,
+    "frase": 2
+  },
+  {
+    "text": " no",
+    "startMs": 7380,
+    "endMs": 7520,
+    "frase": 2
+  },
+  {
+    "text": " viene.",
+    "startMs": 7520,
+    "endMs": 7810,
+    "frase": 2
+  },
+  {
+    "text": " Con",
+    "startMs": 8280,
+    "endMs": 8450,
+    "frase": 3
+  },
+  {
+    "text": " turnos",
+    "startMs": 8450,
+    "endMs": 8750,
+    "frase": 3
+  },
+  {
+    "text": " online,",
+    "startMs": 8750,
+    "endMs": 9320,
+    "frase": 3
+  },
+  {
+    "text": " tu",
+    "startMs": 9320,
+    "endMs": 9350,
+    "frase": 3
+  },
+  {
+    "text": " cliente",
+    "startMs": 9350,
+    "endMs": 9790,
+    "frase": 3
+  },
+  {
+    "text": " entra",
+    "startMs": 9790,
+    "endMs": 9990,
+    "frase": 3
+  },
+  {
+    "text": " a",
+    "startMs": 9990,
+    "endMs": 10220,
+    "frase": 3
+  },
+  {
+    "text": " tu",
+    "startMs": 10220,
+    "endMs": 10410,
+    "frase": 3
+  },
+  {
+    "text": " agenda",
+    "startMs": 10410,
+    "endMs": 10940,
+    "frase": 3
+  },
+  {
+    "text": " y",
+    "startMs": 10940,
+    "endMs": 10970,
+    "frase": 3
+  },
+  {
+    "text": " elige",
+    "startMs": 10970,
+    "endMs": 11580,
+    "frase": 3
+  },
+  {
+    "text": " el",
+    "startMs": 11580,
+    "endMs": 11710,
+    "frase": 3
+  },
+  {
+    "text": " horario",
+    "startMs": 11710,
+    "endMs": 12230,
+    "frase": 3
+  },
+  {
+    "text": " libre,",
+    "startMs": 12230,
+    "endMs": 12420,
+    "frase": 3
+  },
+  {
+    "text": " solo.",
+    "startMs": 12420,
+    "endMs": 12810,
+    "frase": 3
+  },
+  {
+    "text": " Vos",
+    "startMs": 13170,
+    "endMs": 13380,
+    "frase": 4
+  },
+  {
+    "text": " lo",
+    "startMs": 13380,
+    "endMs": 13540,
+    "frase": 4
+  },
+  {
+    "text": " ves",
+    "startMs": 13540,
+    "endMs": 13650,
+    "frase": 4
+  },
+  {
+    "text": " anotado",
+    "startMs": 13650,
+    "endMs": 14330,
+    "frase": 4
+  },
+  {
+    "text": " en",
+    "startMs": 14330,
+    "endMs": 14570,
+    "frase": 4
+  },
+  {
+    "text": " tu",
+    "startMs": 14570,
+    "endMs": 14720,
+    "frase": 4
+  },
+  {
+    "text": " agenda,",
+    "startMs": 14720,
+    "endMs": 15130,
+    "frase": 4
+  },
+  {
+    "text": " sin",
+    "startMs": 15130,
+    "endMs": 15290,
+    "frase": 4
+  },
+  {
+    "text": " contestar",
+    "startMs": 15290,
+    "endMs": 15750,
+    "frase": 4
+  },
+  {
+    "text": " un",
+    "startMs": 15750,
+    "endMs": 16030,
+    "frase": 4
+  },
+  {
+    "text": " solo",
+    "startMs": 16030,
+    "endMs": 16250,
+    "frase": 4
+  },
+  {
+    "text": " mensaje.",
+    "startMs": 16250,
+    "endMs": 16820,
+    "frase": 4
+  },
+  {
+    "text": " Y",
+    "startMs": 17210,
+    "endMs": 17420,
+    "frase": 5
+  },
+  {
+    "text": " antes",
+    "startMs": 17420,
+    "endMs": 17590,
+    "frase": 5
+  },
+  {
+    "text": " del",
+    "startMs": 17590,
+    "endMs": 17780,
+    "frase": 5
+  },
+  {
+    "text": " turno",
+    "startMs": 17780,
+    "endMs": 18120,
+    "frase": 5
+  },
+  {
+    "text": " le",
+    "startMs": 18120,
+    "endMs": 18250,
+    "frase": 5
+  },
+  {
+    "text": " llega",
+    "startMs": 18250,
+    "endMs": 18520,
+    "frase": 5
+  },
+  {
+    "text": " un",
+    "startMs": 18520,
+    "endMs": 18640,
+    "frase": 5
+  },
+  {
+    "text": " recordatorio,",
+    "startMs": 18640,
+    "endMs": 19380,
+    "frase": 5
+  },
+  {
+    "text": " para",
+    "startMs": 19380,
+    "endMs": 19620,
+    "frase": 5
+  },
+  {
+    "text": " que",
+    "startMs": 19620,
+    "endMs": 19660,
+    "frase": 5
+  },
+  {
+    "text": " no",
+    "startMs": 19660,
+    "endMs": 19940,
+    "frase": 5
+  },
+  {
+    "text": " se",
+    "startMs": 19940,
+    "endMs": 19970,
+    "frase": 5
+  },
+  {
+    "text": " olvide.",
+    "startMs": 19970,
+    "endMs": 20430,
+    "frase": 5
+  },
+  {
+    "text": " Menos",
+    "startMs": 20810,
+    "endMs": 21130,
+    "frase": 6
+  },
+  {
+    "text": " llamadas,",
+    "startMs": 21130,
+    "endMs": 21790,
+    "frase": 6
+  },
+  {
+    "text": " menos",
+    "startMs": 21790,
+    "endMs": 22210,
+    "frase": 6
+  },
+  {
+    "text": " mensajes",
+    "startMs": 22210,
+    "endMs": 22840,
+    "frase": 6
+  },
+  {
+    "text": " y",
+    "startMs": 22840,
+    "endMs": 22890,
+    "frase": 6
+  },
+  {
+    "text": " menos",
+    "startMs": 22890,
+    "endMs": 23420,
+    "frase": 6
+  },
+  {
+    "text": " turnos",
+    "startMs": 23420,
+    "endMs": 23810,
+    "frase": 6
+  },
+  {
+    "text": " perdidos.",
+    "startMs": 23810,
+    "endMs": 24330,
+    "frase": 6
+  },
+  {
+    "text": " ¿Tenés",
+    "startMs": 24820,
+    "endMs": 25060,
+    "frase": 7
+  },
+  {
+    "text": " peluquería",
+    "startMs": 25060,
+    "endMs": 25710,
+    "frase": 7
+  },
+  {
+    "text": " o",
+    "startMs": 25710,
+    "endMs": 25820,
+    "frase": 7
+  },
+  {
+    "text": " barbería?",
+    "startMs": 25820,
+    "endMs": 26340,
+    "frase": 7
+  },
+  {
+    "text": " Escribinos",
+    "startMs": 26700,
+    "endMs": 27260,
+    "frase": 8
+  },
+  {
+    "text": " por",
+    "startMs": 27260,
+    "endMs": 27290,
+    "frase": 8
+  },
+  {
+    "text": " DM.",
+    "startMs": 27290,
+    "endMs": 27830,
+    "frase": 8
+  }
+]

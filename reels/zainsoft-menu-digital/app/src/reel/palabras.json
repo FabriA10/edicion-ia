@@ -1,0 +1,500 @@
+[
+  {
+    "text": "¿Todavía",
+    "startMs": 120,
+    "endMs": 730,
+    "frase": 0
+  },
+  {
+    "text": " tenés",
+    "startMs": 730,
+    "endMs": 890,
+    "frase": 0
+  },
+  {
+    "text": " el",
+    "startMs": 890,
+    "endMs": 1060,
+    "frase": 0
+  },
+  {
+    "text": " menú",
+    "startMs": 1060,
+    "endMs": 1300,
+    "frase": 0
+  },
+  {
+    "text": " en",
+    "startMs": 1300,
+    "endMs": 1540,
+    "frase": 0
+  },
+  {
+    "text": " PDF?",
+    "startMs": 1540,
+    "endMs": 1870,
+    "frase": 0
+  },
+  {
+    "text": " Nadie",
+    "startMs": 2200,
+    "endMs": 2590,
+    "frase": 1
+  },
+  {
+    "text": " lo",
+    "startMs": 2590,
+    "endMs": 2770,
+    "frase": 1
+  },
+  {
+    "text": " puede",
+    "startMs": 2770,
+    "endMs": 3180,
+    "frase": 1
+  },
+  {
+    "text": " leer.",
+    "startMs": 3180,
+    "endMs": 3460,
+    "frase": 1
+  },
+  {
+    "text": " Hay",
+    "startMs": 3840,
+    "endMs": 3970,
+    "frase": 2
+  },
+  {
+    "text": " que",
+    "startMs": 3970,
+    "endMs": 4170,
+    "frase": 2
+  },
+  {
+    "text": " agrandarlo",
+    "startMs": 4170,
+    "endMs": 4920,
+    "frase": 2
+  },
+  {
+    "text": " con",
+    "startMs": 4920,
+    "endMs": 4980,
+    "frase": 2
+  },
+  {
+    "text": " los",
+    "startMs": 4980,
+    "endMs": 5290,
+    "frase": 2
+  },
+  {
+    "text": " dedos,",
+    "startMs": 5290,
+    "endMs": 5500,
+    "frase": 2
+  },
+  {
+    "text": " y",
+    "startMs": 5500,
+    "endMs": 5670,
+    "frase": 2
+  },
+  {
+    "text": " se",
+    "startMs": 5670,
+    "endMs": 5980,
+    "frase": 2
+  },
+  {
+    "text": " ve",
+    "startMs": 5980,
+    "endMs": 6120,
+    "frase": 2
+  },
+  {
+    "text": " todo",
+    "startMs": 6120,
+    "endMs": 6490,
+    "frase": 2
+  },
+  {
+    "text": " borroso.",
+    "startMs": 6490,
+    "endMs": 6950,
+    "frase": 2
+  },
+  {
+    "text": " Con",
+    "startMs": 7480,
+    "endMs": 7690,
+    "frase": 3
+  },
+  {
+    "text": " un",
+    "startMs": 7690,
+    "endMs": 7900,
+    "frase": 3
+  },
+  {
+    "text": " menú",
+    "startMs": 7900,
+    "endMs": 8200,
+    "frase": 3
+  },
+  {
+    "text": " digital,",
+    "startMs": 8200,
+    "endMs": 8620,
+    "frase": 3
+  },
+  {
+    "text": " tu",
+    "startMs": 8620,
+    "endMs": 8810,
+    "frase": 3
+  },
+  {
+    "text": " cliente",
+    "startMs": 8810,
+    "endMs": 9210,
+    "frase": 3
+  },
+  {
+    "text": " escanea",
+    "startMs": 9210,
+    "endMs": 9700,
+    "frase": 3
+  },
+  {
+    "text": " el",
+    "startMs": 9700,
+    "endMs": 9940,
+    "frase": 3
+  },
+  {
+    "text": " QR",
+    "startMs": 9940,
+    "endMs": 10260,
+    "frase": 3
+  },
+  {
+    "text": " de",
+    "startMs": 10260,
+    "endMs": 10500,
+    "frase": 3
+  },
+  {
+    "text": " la",
+    "startMs": 10500,
+    "endMs": 10560,
+    "frase": 3
+  },
+  {
+    "text": " mesa,",
+    "startMs": 10560,
+    "endMs": 10880,
+    "frase": 3
+  },
+  {
+    "text": " sin",
+    "startMs": 10880,
+    "endMs": 11080,
+    "frase": 3
+  },
+  {
+    "text": " instalar",
+    "startMs": 11080,
+    "endMs": 11580,
+    "frase": 3
+  },
+  {
+    "text": " nada.",
+    "startMs": 11580,
+    "endMs": 11990,
+    "frase": 3
+  },
+  {
+    "text": " Elige",
+    "startMs": 12450,
+    "endMs": 12930,
+    "frase": 4
+  },
+  {
+    "text": " por",
+    "startMs": 12930,
+    "endMs": 12960,
+    "frase": 4
+  },
+  {
+    "text": " categoría",
+    "startMs": 12960,
+    "endMs": 13610,
+    "frase": 4
+  },
+  {
+    "text": " y",
+    "startMs": 13610,
+    "endMs": 13770,
+    "frase": 4
+  },
+  {
+    "text": " suma",
+    "startMs": 13770,
+    "endMs": 14170,
+    "frase": 4
+  },
+  {
+    "text": " lo",
+    "startMs": 14170,
+    "endMs": 14200,
+    "frase": 4
+  },
+  {
+    "text": " que",
+    "startMs": 14200,
+    "endMs": 14330,
+    "frase": 4
+  },
+  {
+    "text": " quiere",
+    "startMs": 14330,
+    "endMs": 14710,
+    "frase": 4
+  },
+  {
+    "text": " con",
+    "startMs": 14710,
+    "endMs": 14990,
+    "frase": 4
+  },
+  {
+    "text": " un",
+    "startMs": 14990,
+    "endMs": 15040,
+    "frase": 4
+  },
+  {
+    "text": " toque.",
+    "startMs": 15040,
+    "endMs": 15330,
+    "frase": 4
+  },
+  {
+    "text": " Y",
+    "startMs": 15710,
+    "endMs": 15880,
+    "frase": 5
+  },
+  {
+    "text": " el",
+    "startMs": 15880,
+    "endMs": 16000,
+    "frase": 5
+  },
+  {
+    "text": " pedido",
+    "startMs": 16000,
+    "endMs": 16510,
+    "frase": 5
+  },
+  {
+    "text": " te",
+    "startMs": 16510,
+    "endMs": 16640,
+    "frase": 5
+  },
+  {
+    "text": " llega",
+    "startMs": 16640,
+    "endMs": 16920,
+    "frase": 5
+  },
+  {
+    "text": " por",
+    "startMs": 16920,
+    "endMs": 17180,
+    "frase": 5
+  },
+  {
+    "text": " WhatsApp,",
+    "startMs": 17180,
+    "endMs": 17570,
+    "frase": 5
+  },
+  {
+    "text": " ordenado,",
+    "startMs": 17570,
+    "endMs": 18190,
+    "frase": 5
+  },
+  {
+    "text": " con",
+    "startMs": 18190,
+    "endMs": 18380,
+    "frase": 5
+  },
+  {
+    "text": " la",
+    "startMs": 18380,
+    "endMs": 18650,
+    "frase": 5
+  },
+  {
+    "text": " mesa",
+    "startMs": 18650,
+    "endMs": 18900,
+    "frase": 5
+  },
+  {
+    "text": " y",
+    "startMs": 18900,
+    "endMs": 19130,
+    "frase": 5
+  },
+  {
+    "text": " el",
+    "startMs": 19130,
+    "endMs": 19160,
+    "frase": 5
+  },
+  {
+    "text": " total.",
+    "startMs": 19160,
+    "endMs": 19540,
+    "frase": 5
+  },
+  {
+    "text": " Y",
+    "startMs": 19990,
+    "endMs": 20090,
+    "frase": 6
+  },
+  {
+    "text": " vos",
+    "startMs": 20090,
+    "endMs": 20400,
+    "frase": 6
+  },
+  {
+    "text": " cambiás",
+    "startMs": 20400,
+    "endMs": 20880,
+    "frase": 6
+  },
+  {
+    "text": " los",
+    "startMs": 20880,
+    "endMs": 21040,
+    "frase": 6
+  },
+  {
+    "text": " precios",
+    "startMs": 21040,
+    "endMs": 21280,
+    "frase": 6
+  },
+  {
+    "text": " cuando",
+    "startMs": 21280,
+    "endMs": 21710,
+    "frase": 6
+  },
+  {
+    "text": " quieras,",
+    "startMs": 21710,
+    "endMs": 22160,
+    "frase": 6
+  },
+  {
+    "text": " sin",
+    "startMs": 22160,
+    "endMs": 22300,
+    "frase": 6
+  },
+  {
+    "text": " pagar",
+    "startMs": 22300,
+    "endMs": 22690,
+    "frase": 6
+  },
+  {
+    "text": " comisiones.",
+    "startMs": 22690,
+    "endMs": 23360,
+    "frase": 6
+  },
+  {
+    "text": " ¿Lo",
+    "startMs": 23850,
+    "endMs": 23970,
+    "frase": 7
+  },
+  {
+    "text": " querés",
+    "startMs": 23970,
+    "endMs": 24180,
+    "frase": 7
+  },
+  {
+    "text": " para",
+    "startMs": 24180,
+    "endMs": 24400,
+    "frase": 7
+  },
+  {
+    "text": " tu",
+    "startMs": 24400,
+    "endMs": 24590,
+    "frase": 7
+  },
+  {
+    "text": " local?",
+    "startMs": 24590,
+    "endMs": 24840,
+    "frase": 7
+  },
+  {
+    "text": " Probá",
+    "startMs": 25180,
+    "endMs": 25550,
+    "frase": 8
+  },
+  {
+    "text": " la",
+    "startMs": 25550,
+    "endMs": 25740,
+    "frase": 8
+  },
+  {
+    "text": " demo:",
+    "startMs": 25740,
+    "endMs": 25950,
+    "frase": 8
+  },
+  {
+    "text": " link",
+    "startMs": 25950,
+    "endMs": 26090,
+    "frase": 9
+  },
+  {
+    "text": " en",
+    "startMs": 26090,
+    "endMs": 26350,
+    "frase": 9
+  },
+  {
+    "text": " la",
+    "startMs": 26350,
+    "endMs": 26430,
+    "frase": 9
+  },
+  {
+    "text": " bio.",
+    "startMs": 26430,
+    "endMs": 26810,
+    "frase": 9
+  }
+]
