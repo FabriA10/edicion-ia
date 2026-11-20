@@ -1,0 +1,524 @@
+[
+  {
+    "text": "¿Ya",
+    "startMs": 100,
+    "endMs": 310,
+    "frase": 0
+  },
+  {
+    "text": " está",
+    "startMs": 310,
+    "endMs": 580,
+    "frase": 0
+  },
+  {
+    "text": " lista",
+    "startMs": 580,
+    "endMs": 860,
+    "frase": 0
+  },
+  {
+    "text": " mi",
+    "startMs": 860,
+    "endMs": 1000,
+    "frase": 0
+  },
+  {
+    "text": " moto?",
+    "startMs": 1000,
+    "endMs": 1200,
+    "frase": 0
+  },
+  {
+    "text": " Si",
+    "startMs": 1700,
+    "endMs": 1840,
+    "frase": 1
+  },
+  {
+    "text": " tenés",
+    "startMs": 1840,
+    "endMs": 2220,
+    "frase": 1
+  },
+  {
+    "text": " un",
+    "startMs": 2220,
+    "endMs": 2370,
+    "frase": 1
+  },
+  {
+    "text": " taller,",
+    "startMs": 2370,
+    "endMs": 2760,
+    "frase": 1
+  },
+  {
+    "text": " te",
+    "startMs": 2760,
+    "endMs": 2990,
+    "frase": 1
+  },
+  {
+    "text": " lo",
+    "startMs": 2990,
+    "endMs": 3020,
+    "frase": 1
+  },
+  {
+    "text": " preguntan",
+    "startMs": 3020,
+    "endMs": 3680,
+    "frase": 1
+  },
+  {
+    "text": " todos",
+    "startMs": 3680,
+    "endMs": 3900,
+    "frase": 1
+  },
+  {
+    "text": " los",
+    "startMs": 3900,
+    "endMs": 4180,
+    "frase": 1
+  },
+  {
+    "text": " días.",
+    "startMs": 4180,
+    "endMs": 4480,
+    "frase": 1
+  },
+  {
+    "text": " Mirá",
+    "startMs": 5110,
+    "endMs": 5450,
+    "frase": 2
+  },
+  {
+    "text": " lo",
+    "startMs": 5450,
+    "endMs": 5580,
+    "frase": 2
+  },
+  {
+    "text": " que",
+    "startMs": 5580,
+    "endMs": 5620,
+    "frase": 2
+  },
+  {
+    "text": " hicimos",
+    "startMs": 5620,
+    "endMs": 6150,
+    "frase": 2
+  },
+  {
+    "text": " para",
+    "startMs": 6150,
+    "endMs": 6430,
+    "frase": 2
+  },
+  {
+    "text": " LV",
+    "startMs": 6430,
+    "endMs": 6880,
+    "frase": 2
+  },
+  {
+    "text": " Racing,",
+    "startMs": 6880,
+    "endMs": 7070,
+    "frase": 2
+  },
+  {
+    "text": " en",
+    "startMs": 7070,
+    "endMs": 7320,
+    "frase": 2
+  },
+  {
+    "text": " Tucumán.",
+    "startMs": 7320,
+    "endMs": 7700,
+    "frase": 2
+  },
+  {
+    "text": " En",
+    "startMs": 8150,
+    "endMs": 8360,
+    "frase": 3
+  },
+  {
+    "text": " el",
+    "startMs": 8360,
+    "endMs": 8390,
+    "frase": 3
+  },
+  {
+    "text": " taller,",
+    "startMs": 8390,
+    "endMs": 8790,
+    "frase": 3
+  },
+  {
+    "text": " cada",
+    "startMs": 8790,
+    "endMs": 8940,
+    "frase": 3
+  },
+  {
+    "text": " moto",
+    "startMs": 8940,
+    "endMs": 9370,
+    "frase": 3
+  },
+  {
+    "text": " avanza",
+    "startMs": 9370,
+    "endMs": 9730,
+    "frase": 3
+  },
+  {
+    "text": " en",
+    "startMs": 9730,
+    "endMs": 9870,
+    "frase": 3
+  },
+  {
+    "text": " un",
+    "startMs": 9870,
+    "endMs": 10030,
+    "frase": 3
+  },
+  {
+    "text": " tablero:",
+    "startMs": 10030,
+    "endMs": 10440,
+    "frase": 3
+  },
+  {
+    "text": " recibida,",
+    "startMs": 10800,
+    "endMs": 11560,
+    "frase": 4
+  },
+  {
+    "text": " diagnóstico,",
+    "startMs": 11560,
+    "endMs": 12460,
+    "frase": 4
+  },
+  {
+    "text": " repuestos,",
+    "startMs": 12460,
+    "endMs": 13020,
+    "frase": 4
+  },
+  {
+    "text": " reparación",
+    "startMs": 13020,
+    "endMs": 14200,
+    "frase": 4
+  },
+  {
+    "text": " y",
+    "startMs": 14200,
+    "endMs": 14260,
+    "frase": 4
+  },
+  {
+    "text": " lista.",
+    "startMs": 14260,
+    "endMs": 14750,
+    "frase": 4
+  },
+  {
+    "text": " El",
+    "startMs": 15280,
+    "endMs": 15480,
+    "frase": 5
+  },
+  {
+    "text": " mecánico",
+    "startMs": 15480,
+    "endMs": 15970,
+    "frase": 5
+  },
+  {
+    "text": " saca",
+    "startMs": 15970,
+    "endMs": 16290,
+    "frase": 5
+  },
+  {
+    "text": " fotos",
+    "startMs": 16290,
+    "endMs": 16650,
+    "frase": 5
+  },
+  {
+    "text": " con",
+    "startMs": 16650,
+    "endMs": 16680,
+    "frase": 5
+  },
+  {
+    "text": " el",
+    "startMs": 16680,
+    "endMs": 16910,
+    "frase": 5
+  },
+  {
+    "text": " celular",
+    "startMs": 16910,
+    "endMs": 17340,
+    "frase": 5
+  },
+  {
+    "text": " y",
+    "startMs": 17340,
+    "endMs": 17370,
+    "frase": 5
+  },
+  {
+    "text": " quedan",
+    "startMs": 17370,
+    "endMs": 17770,
+    "frase": 5
+  },
+  {
+    "text": " guardadas",
+    "startMs": 17770,
+    "endMs": 18090,
+    "frase": 5
+  },
+  {
+    "text": " en",
+    "startMs": 18090,
+    "endMs": 18270,
+    "frase": 5
+  },
+  {
+    "text": " la",
+    "startMs": 18270,
+    "endMs": 18510,
+    "frase": 5
+  },
+  {
+    "text": " orden.",
+    "startMs": 18510,
+    "endMs": 18740,
+    "frase": 5
+  },
+  {
+    "text": " Y",
+    "startMs": 19070,
+    "endMs": 19250,
+    "frase": 6
+  },
+  {
+    "text": " el",
+    "startMs": 19250,
+    "endMs": 19510,
+    "frase": 6
+  },
+  {
+    "text": " cliente",
+    "startMs": 19510,
+    "endMs": 19830,
+    "frase": 6
+  },
+  {
+    "text": " entra",
+    "startMs": 19830,
+    "endMs": 20140,
+    "frase": 6
+  },
+  {
+    "text": " a",
+    "startMs": 20140,
+    "endMs": 20420,
+    "frase": 6
+  },
+  {
+    "text": " Mi",
+    "startMs": 20420,
+    "endMs": 20540,
+    "frase": 6
+  },
+  {
+    "text": " Garage",
+    "startMs": 20540,
+    "endMs": 20870,
+    "frase": 6
+  },
+  {
+    "text": " y",
+    "startMs": 20870,
+    "endMs": 21030,
+    "frase": 6
+  },
+  {
+    "text": " ve",
+    "startMs": 21030,
+    "endMs": 21230,
+    "frase": 6
+  },
+  {
+    "text": " el",
+    "startMs": 21230,
+    "endMs": 21530,
+    "frase": 6
+  },
+  {
+    "text": " avance",
+    "startMs": 21530,
+    "endMs": 22090,
+    "frase": 6
+  },
+  {
+    "text": " de",
+    "startMs": 22090,
+    "endMs": 22280,
+    "frase": 6
+  },
+  {
+    "text": " su",
+    "startMs": 22280,
+    "endMs": 22400,
+    "frase": 6
+  },
+  {
+    "text": " moto,",
+    "startMs": 22400,
+    "endMs": 22750,
+    "frase": 6
+  },
+  {
+    "text": " con",
+    "startMs": 22750,
+    "endMs": 22970,
+    "frase": 6
+  },
+  {
+    "text": " las",
+    "startMs": 22970,
+    "endMs": 23200,
+    "frase": 6
+  },
+  {
+    "text": " fotos,",
+    "startMs": 23200,
+    "endMs": 23450,
+    "frase": 6
+  },
+  {
+    "text": " sin",
+    "startMs": 23450,
+    "endMs": 23680,
+    "frase": 6
+  },
+  {
+    "text": " llamar.",
+    "startMs": 23680,
+    "endMs": 24050,
+    "frase": 6
+  },
+  {
+    "text": " Menos",
+    "startMs": 24550,
+    "endMs": 24860,
+    "frase": 7
+  },
+  {
+    "text": " llamadas,",
+    "startMs": 24860,
+    "endMs": 25490,
+    "frase": 7
+  },
+  {
+    "text": " y",
+    "startMs": 25490,
+    "endMs": 25660,
+    "frase": 7
+  },
+  {
+    "text": " clientes",
+    "startMs": 25660,
+    "endMs": 26010,
+    "frase": 7
+  },
+  {
+    "text": " que",
+    "startMs": 26010,
+    "endMs": 26140,
+    "frase": 7
+  },
+  {
+    "text": " confían.",
+    "startMs": 26140,
+    "endMs": 26760,
+    "frase": 7
+  },
+  {
+    "text": " ¿Querés",
+    "startMs": 27200,
+    "endMs": 27400,
+    "frase": 8
+  },
+  {
+    "text": " algo",
+    "startMs": 27400,
+    "endMs": 27670,
+    "frase": 8
+  },
+  {
+    "text": " así",
+    "startMs": 27670,
+    "endMs": 27820,
+    "frase": 8
+  },
+  {
+    "text": " para",
+    "startMs": 27820,
+    "endMs": 28040,
+    "frase": 8
+  },
+  {
+    "text": " tu",
+    "startMs": 28040,
+    "endMs": 28200,
+    "frase": 8
+  },
+  {
+    "text": " negocio?",
+    "startMs": 28200,
+    "endMs": 28570,
+    "frase": 8
+  },
+  {
+    "text": " Link",
+    "startMs": 28950,
+    "endMs": 29160,
+    "frase": 9
+  },
+  {
+    "text": " en",
+    "startMs": 29160,
+    "endMs": 29190,
+    "frase": 9
+  },
+  {
+    "text": " la",
+    "startMs": 29190,
+    "endMs": 29410,
+    "frase": 9
+  },
+  {
+    "text": " bio.",
+    "startMs": 29410,
+    "endMs": 29660,
+    "frase": 9
+  }
+]

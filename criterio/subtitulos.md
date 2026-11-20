@@ -28,6 +28,9 @@ Para los verticales los subtítulos van así, y ya está validado:
   busto cerrado del video 1; en un plano sentado con escritorio el pecho cae en el
   58 %, y al 73 % los subtítulos terminan sobre las manos.
 
+**Excepción ZainSoft (2026-11-20):** en los reels de ZainSoft los subtítulos llevan **volumen (extrusión)**; ver
+`docs/estilo-visual-reels.md` § «Subtítulos con volumen». El resto de este criterio sigue igual.
+
 **Excepción:** los videos de la clienta van en **Helvetica Bold, centrados a la mitad
 del cuadro**. Ver [clienta-dos-camaras.md](clienta-dos-camaras.md).
 

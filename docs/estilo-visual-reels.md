@@ -31,6 +31,24 @@ Adaptaciones al pasar de oscuro a claro (lo que hubo que cambiar):
 - Logo recreado: cuadrado `TINTA` con «Z» blanca y «S» naranja; «Zain» en `TINTA`, «Soft» naranja.
 - Elementos «atenuados» (la web tachada): subir la atenuación (opacidad 0,12) porque una tarjeta oscura al 25 % se ve como un bloque gris sobre el crema.
 
+## Logo de ZainSoft según el fondo (regla del usuario, 2026-11-20)
+- **El ícono no cambia nunca:** cuadrado negro `#14151A` con la «Z» blanca y la «S» naranja `#F2602E`, también sobre fondo oscuro (no se invierte a blanco).
+- **Fondo claro:** «Zain» en negro (`TINTA`) y «Soft» en naranja.
+- **Fondo oscuro:** «Zain» en **blanco** y «Soft» en naranja.
+- Origen: en el reel de LV Racing (fondo oscuro) el ícono se había invertido a blanco y el usuario lo corrigió.
+
+## Subtítulos con volumen (regla del usuario, 2026-11-20)
+Desde el reel de LV Racing, los subtítulos de los reels de ZainSoft van **con volumen (extrusión)**: el mismo estilo de
+siempre (Hando Bold, minúscula, máx. 4 palabras) más «espesor» hacia abajo-derecha.
+- Cómo: `textShadow` por palabra con 7 capas de 1 px (`1px 1px`, `2px 2px` … `7px 7px`) en un **tono oscuro del color de
+  la palabra**, más una sombra suave final para despegar del fondo. Código de referencia: `volumen()` en
+  `reels/zainsoft-caso-lv-racing/app/src/reel/LvReel.tsx`.
+- Fondo oscuro (probado): blanco → `#6B6F7A`, amarillo `#FFE600` → `#8A7D00`, verde `#00FF88` → `#00804A`; sombra final
+  `rgba(0,0,0,0.85)`.
+- Fondo claro (a probar en el próximo reel): tinta → `#8A8173`, naranja → `#A8401C`, verde `#00A35C` → `#006B3C`,
+  rojo → `#8E1B12`; sombra final `rgba(58,42,32,0.35)` (sin el óvalo blanco de respaldo).
+- Esta regla es solo para los reels de ZainSoft; `criterio/subtitulos.md` sigue valiendo para los demás clientes.
+
 ## Paleta «Oscuro» (versión anterior, para comparar)
 Fondo `#0E0F13`, rejilla `#1B1D23`, resplandor naranja 0,16, texto blanco, subtítulos blancos con sombra negra, palabras clave `#00FF88` / `#FFE600`. La versión oscura del reel 1 ya no existe (el usuario la borró); se regenera cambiando los tokens de esta tabla en `SistemaReel.tsx`.
 

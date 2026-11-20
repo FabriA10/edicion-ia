@@ -22,6 +22,14 @@ Composición `app/src/reel/BinanceReel.tsx`, fondo crema con viñeta y luz que s
 - Música: «Grey Square Tension» (leberch, Pixabay) en `audio/musica/`, mezclada en la pasada de cierre con ffmpeg (no en Remotion): lowpass 1,4 kHz hasta 41 s y fundido a la versión completa en 40,9–42,4 s, pozo de −3 dB en 2,2 kHz, sidechain con `voz_master.wav`, cama a −32 LUFS. La voz queda 27–29 dB arriba en 300–3500 Hz. Comandos en el historial de esta sesión; si se cambia la voz hay que rehacer la cama.
 - Alineación: pausas entre frases ≥ 0,36 s y en comas 0,25-0,30 s → `MIN_SIL = 33` en `app/alinear-palabras.mjs`.
 
+## Reel «¿Ya está lista mi moto?» (caso real LV Racing, 2026-11-20) — HECHO
+`zainsoft-caso-lv-racing/`: `out/final.mp4` (31,1 s, −14,5 LUFS, pico −3,4 dBFS, **con música**, viene de `out/v04.mp4`: logo con ícono original y «Zain» blanco + **subtítulos con volumen** + **fotos reales de piezas** (Pexels, en `app/public/fotos/`) en el visor y la galería de Mi Garage; versiones anteriores `final_v01`–`final_v03.mp4`), `out/portada-9x16.png`, `BRIEF.md`, `GUION.md`, `STORYBOARD.md`, `CREDITOS.md`, `PUBLICACION.md`.
+Composición `app/src/reel/LvReel.tsx`, **fondo OSCURO** (pedido del usuario) con un círculo de luz cálida detrás de Bit para que se lea su mitad negra. Tiempos atados a las palabras de la voz (29,9 s).
+- Cliente autorizado (usuario, 2026-11-20). Capturas de lo **público** de `lv-racing-web.vercel.app` (portada y login de Mi Garage, sin iniciar sesión) en `app/public/lv/`; tablero, cámara y portal por dentro son **recreación** con datos inventados (rotulada en pantalla).
+- Música «Rock» (The Mountain, Pixabay) desde 41 s: tiene mucha energía en la banda de la voz (28-34 %), así que va con hueco de −5 dB en 1,2 kHz y −4 dB en 2,5 kHz; la voz queda 24,7 dB arriba en 300-3500 Hz.
+- Al publicar: etiquetar a @lvracingtucuman.
+- Falta: que el usuario lo vea y escuche completo; confirmar el origen de la música. No se pasó por `revisor-calidad-reel`.
+
 ## Reel «Son las 23 y tu WhatsApp no para» (turnos online, 2026-11-15) — HECHO
 `zainsoft-turnos-online/`: `out/final.mp4` (29,2 s, −14,5 LUFS, pico −4,0 dBFS, **con música**), `out/portada-9x16.png` (1080x1920; todo dentro del 3:4), `BRIEF.md`, `GUION.md`, `STORYBOARD.md`, `CREDITOS.md`, `PUBLICACION.md`.
 Composición `app/src/reel/TurnosReel.tsx`, **todo dibujado en código** (la web no tiene demo de turnos): WhatsApp a las 23:04, sillón vacío «NO VINO», agenda web, agenda del dueño, recordatorio con chips WhatsApp/Mail/SMS, íconos «menos…», poste de barbería. Rubro barbería. Tiempos atados a las palabras de la voz (`at('palabra')`).
