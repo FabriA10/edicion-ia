@@ -1,0 +1,548 @@
+[
+  {
+    "text": "Tres",
+    "startMs": 70,
+    "endMs": 250,
+    "frase": 0
+  },
+  {
+    "text": " señales",
+    "startMs": 250,
+    "endMs": 780,
+    "frase": 0
+  },
+  {
+    "text": " de",
+    "startMs": 780,
+    "endMs": 920,
+    "frase": 0
+  },
+  {
+    "text": " que",
+    "startMs": 920,
+    "endMs": 1040,
+    "frase": 0
+  },
+  {
+    "text": " tu",
+    "startMs": 1040,
+    "endMs": 1270,
+    "frase": 0
+  },
+  {
+    "text": " negocio",
+    "startMs": 1270,
+    "endMs": 1770,
+    "frase": 0
+  },
+  {
+    "text": " ya",
+    "startMs": 1770,
+    "endMs": 1800,
+    "frase": 0
+  },
+  {
+    "text": " necesita",
+    "startMs": 1800,
+    "endMs": 2490,
+    "frase": 0
+  },
+  {
+    "text": " un",
+    "startMs": 2490,
+    "endMs": 2710,
+    "frase": 0
+  },
+  {
+    "text": " sistema.",
+    "startMs": 2710,
+    "endMs": 3180,
+    "frase": 0
+  },
+  {
+    "text": " La",
+    "startMs": 3620,
+    "endMs": 3770,
+    "frase": 1
+  },
+  {
+    "text": " tercera",
+    "startMs": 3770,
+    "endMs": 4260,
+    "frase": 1
+  },
+  {
+    "text": " le",
+    "startMs": 4260,
+    "endMs": 4510,
+    "frase": 1
+  },
+  {
+    "text": " pasa",
+    "startMs": 4510,
+    "endMs": 4840,
+    "frase": 1
+  },
+  {
+    "text": " a",
+    "startMs": 4840,
+    "endMs": 5080,
+    "frase": 1
+  },
+  {
+    "text": " casi",
+    "startMs": 5080,
+    "endMs": 5460,
+    "frase": 1
+  },
+  {
+    "text": " todos.",
+    "startMs": 5460,
+    "endMs": 5750,
+    "frase": 1
+  },
+  {
+    "text": " Uno:",
+    "startMs": 6330,
+    "endMs": 6620,
+    "frase": 2
+  },
+  {
+    "text": " anotás",
+    "startMs": 7050,
+    "endMs": 7600,
+    "frase": 3
+  },
+  {
+    "text": " todo",
+    "startMs": 7600,
+    "endMs": 7810,
+    "frase": 3
+  },
+  {
+    "text": " en",
+    "startMs": 7810,
+    "endMs": 8100,
+    "frase": 3
+  },
+  {
+    "text": " un",
+    "startMs": 8100,
+    "endMs": 8130,
+    "frase": 3
+  },
+  {
+    "text": " cuaderno,",
+    "startMs": 8130,
+    "endMs": 8720,
+    "frase": 3
+  },
+  {
+    "text": " o",
+    "startMs": 8720,
+    "endMs": 8790,
+    "frase": 3
+  },
+  {
+    "text": " en",
+    "startMs": 8790,
+    "endMs": 9050,
+    "frase": 3
+  },
+  {
+    "text": " un",
+    "startMs": 9050,
+    "endMs": 9250,
+    "frase": 3
+  },
+  {
+    "text": " Excel",
+    "startMs": 9250,
+    "endMs": 9580,
+    "frase": 3
+  },
+  {
+    "text": " que",
+    "startMs": 9580,
+    "endMs": 9630,
+    "frase": 3
+  },
+  {
+    "text": " solo",
+    "startMs": 9630,
+    "endMs": 10030,
+    "frase": 3
+  },
+  {
+    "text": " entendés",
+    "startMs": 10030,
+    "endMs": 10500,
+    "frase": 3
+  },
+  {
+    "text": " vos.",
+    "startMs": 10500,
+    "endMs": 10660,
+    "frase": 3
+  },
+  {
+    "text": " Dos:",
+    "startMs": 11240,
+    "endMs": 11620,
+    "frase": 4
+  },
+  {
+    "text": " llega",
+    "startMs": 12070,
+    "endMs": 12360,
+    "frase": 5
+  },
+  {
+    "text": " fin",
+    "startMs": 12360,
+    "endMs": 12600,
+    "frase": 5
+  },
+  {
+    "text": " de",
+    "startMs": 12600,
+    "endMs": 12710,
+    "frase": 5
+  },
+  {
+    "text": " mes",
+    "startMs": 12710,
+    "endMs": 12930,
+    "frase": 5
+  },
+  {
+    "text": " y",
+    "startMs": 12930,
+    "endMs": 12960,
+    "frase": 5
+  },
+  {
+    "text": " no",
+    "startMs": 12960,
+    "endMs": 13230,
+    "frase": 5
+  },
+  {
+    "text": " sabés",
+    "startMs": 13230,
+    "endMs": 13560,
+    "frase": 5
+  },
+  {
+    "text": " cuánto",
+    "startMs": 13560,
+    "endMs": 13960,
+    "frase": 5
+  },
+  {
+    "text": " ganaste,",
+    "startMs": 13960,
+    "endMs": 14500,
+    "frase": 5
+  },
+  {
+    "text": " ni",
+    "startMs": 14500,
+    "endMs": 14530,
+    "frase": 5
+  },
+  {
+    "text": " qué",
+    "startMs": 14530,
+    "endMs": 14840,
+    "frase": 5
+  },
+  {
+    "text": " es",
+    "startMs": 14840,
+    "endMs": 15110,
+    "frase": 5
+  },
+  {
+    "text": " lo",
+    "startMs": 15110,
+    "endMs": 15290,
+    "frase": 5
+  },
+  {
+    "text": " que",
+    "startMs": 15290,
+    "endMs": 15320,
+    "frase": 5
+  },
+  {
+    "text": " más",
+    "startMs": 15320,
+    "endMs": 15570,
+    "frase": 5
+  },
+  {
+    "text": " se",
+    "startMs": 15570,
+    "endMs": 15710,
+    "frase": 5
+  },
+  {
+    "text": " vende.",
+    "startMs": 15710,
+    "endMs": 16010,
+    "frase": 5
+  },
+  {
+    "text": " Tres:",
+    "startMs": 16440,
+    "endMs": 16780,
+    "frase": 6
+  },
+  {
+    "text": " se",
+    "startMs": 17220,
+    "endMs": 17460,
+    "frase": 7
+  },
+  {
+    "text": " te",
+    "startMs": 17460,
+    "endMs": 17640,
+    "frase": 7
+  },
+  {
+    "text": " pierden",
+    "startMs": 17640,
+    "endMs": 17840,
+    "frase": 7
+  },
+  {
+    "text": " pedidos",
+    "startMs": 17840,
+    "endMs": 18500,
+    "frase": 7
+  },
+  {
+    "text": " o",
+    "startMs": 18500,
+    "endMs": 18530,
+    "frase": 7
+  },
+  {
+    "text": " turnos",
+    "startMs": 18530,
+    "endMs": 19020,
+    "frase": 7
+  },
+  {
+    "text": " entre",
+    "startMs": 19020,
+    "endMs": 19350,
+    "frase": 7
+  },
+  {
+    "text": " WhatsApp,",
+    "startMs": 19350,
+    "endMs": 19800,
+    "frase": 7
+  },
+  {
+    "text": " papelitos",
+    "startMs": 19800,
+    "endMs": 20530,
+    "frase": 7
+  },
+  {
+    "text": " y",
+    "startMs": 20530,
+    "endMs": 20660,
+    "frase": 7
+  },
+  {
+    "text": " la",
+    "startMs": 20660,
+    "endMs": 20900,
+    "frase": 7
+  },
+  {
+    "text": " memoria.",
+    "startMs": 20900,
+    "endMs": 21360,
+    "frase": 7
+  },
+  {
+    "text": " Con",
+    "startMs": 21800,
+    "endMs": 22030,
+    "frase": 8
+  },
+  {
+    "text": " un",
+    "startMs": 22030,
+    "endMs": 22200,
+    "frase": 8
+  },
+  {
+    "text": " sistema,",
+    "startMs": 22200,
+    "endMs": 22690,
+    "frase": 8
+  },
+  {
+    "text": " todo",
+    "startMs": 22690,
+    "endMs": 22920,
+    "frase": 8
+  },
+  {
+    "text": " queda",
+    "startMs": 22920,
+    "endMs": 23350,
+    "frase": 8
+  },
+  {
+    "text": " en",
+    "startMs": 23350,
+    "endMs": 23400,
+    "frase": 8
+  },
+  {
+    "text": " un",
+    "startMs": 23400,
+    "endMs": 23610,
+    "frase": 8
+  },
+  {
+    "text": " solo",
+    "startMs": 23610,
+    "endMs": 23950,
+    "frase": 8
+  },
+  {
+    "text": " lugar:",
+    "startMs": 23950,
+    "endMs": 24270,
+    "frase": 8
+  },
+  {
+    "text": " ventas,",
+    "startMs": 24670,
+    "endMs": 25170,
+    "frase": 9
+  },
+  {
+    "text": " stock",
+    "startMs": 25170,
+    "endMs": 25480,
+    "frase": 9
+  },
+  {
+    "text": " y",
+    "startMs": 25480,
+    "endMs": 25780,
+    "frase": 9
+  },
+  {
+    "text": " clientes,",
+    "startMs": 25780,
+    "endMs": 26210,
+    "frase": 9
+  },
+  {
+    "text": " y",
+    "startMs": 26210,
+    "endMs": 26330,
+    "frase": 9
+  },
+  {
+    "text": " los",
+    "startMs": 26330,
+    "endMs": 26630,
+    "frase": 9
+  },
+  {
+    "text": " números",
+    "startMs": 26630,
+    "endMs": 27310,
+    "frase": 9
+  },
+  {
+    "text": " a",
+    "startMs": 27310,
+    "endMs": 27430,
+    "frase": 9
+  },
+  {
+    "text": " un",
+    "startMs": 27430,
+    "endMs": 27730,
+    "frase": 9
+  },
+  {
+    "text": " toque.",
+    "startMs": 27730,
+    "endMs": 28090,
+    "frase": 9
+  },
+  {
+    "text": " ¿Te",
+    "startMs": 28510,
+    "endMs": 28600,
+    "frase": 10
+  },
+  {
+    "text": " pasó",
+    "startMs": 28600,
+    "endMs": 28910,
+    "frase": 10
+  },
+  {
+    "text": " alguna?",
+    "startMs": 28910,
+    "endMs": 29260,
+    "frase": 10
+  },
+  {
+    "text": " Guardá",
+    "startMs": 29600,
+    "endMs": 29920,
+    "frase": 11
+  },
+  {
+    "text": " este",
+    "startMs": 29920,
+    "endMs": 30090,
+    "frase": 11
+  },
+  {
+    "text": " video",
+    "startMs": 30090,
+    "endMs": 30420,
+    "frase": 11
+  },
+  {
+    "text": " y",
+    "startMs": 30420,
+    "endMs": 30490,
+    "frase": 11
+  },
+  {
+    "text": " escribinos",
+    "startMs": 30490,
+    "endMs": 31050,
+    "frase": 11
+  },
+  {
+    "text": " por",
+    "startMs": 31050,
+    "endMs": 31110,
+    "frase": 11
+  },
+  {
+    "text": " DM.",
+    "startMs": 31110,
+    "endMs": 31600,
+    "frase": 11
+  }
+]
