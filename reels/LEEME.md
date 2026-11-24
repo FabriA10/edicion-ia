@@ -22,6 +22,14 @@ Composición `app/src/reel/BinanceReel.tsx`, fondo crema con viñeta y luz que s
 - Música: «Grey Square Tension» (leberch, Pixabay) en `audio/musica/`, mezclada en la pasada de cierre con ffmpeg (no en Remotion): lowpass 1,4 kHz hasta 41 s y fundido a la versión completa en 40,9–42,4 s, pozo de −3 dB en 2,2 kHz, sidechain con `voz_master.wav`, cama a −32 LUFS. La voz queda 27–29 dB arriba en 300–3500 Hz. Comandos en el historial de esta sesión; si se cambia la voz hay que rehacer la cama.
 - Alineación: pausas entre frases ≥ 0,36 s y en comas 0,25-0,30 s → `MIN_SIL = 33` en `app/alinear-palabras.mjs`.
 
+## Reel noticia «Microsoft se cayó un día entero» (2026-11-23) — HECHO
+`zainsoft-caida-microsoft/`: `out/final.mp4` (34,8 s, −14,5 LUFS, pico −3,3 dBFS, **con música**), `out/portada-9x16.png`, `BRIEF.md` (datos y fuentes verificadas), `GUION.md`, `STORYBOARD.md`, `CREDITOS.md`, `PUBLICACION.md`.
+Composición `app/src/reel/CaidaReel.tsx`, **fondo oscuro**, Bit con luz detrás, logo con ícono original y «Zain» blanco, subtítulos con volumen. Tiempos atados a las palabras de la voz (33,6 s).
+- Datos: caída de Microsoft 365 del 12/11 (~24 h, +70 países, error de julio oculto +3 meses, +80 % de servidores sin responder, sin ataque). Titular de Infobae (17/11) como cita en `app/public/capturas/`. Sin logos oficiales de Microsoft.
+- Alineación: en `audio/texto-para-elevenlabs.txt` las comas de los tres consejos van como puntos y «mantenemos. ¿Tu negocio» como coma, para que coincidan con las pausas reales de la voz (el texto de la voz no cambia).
+- Música: «Grey Square Tension» (la de Binance) filtrada hasta «¿…tu negocio?» (18,4 s) y abierta después; voz 28 dB arriba en 300-3500 Hz.
+- Falta: que el usuario lo vea y escuche completo. No se pasó por `revisor-calidad-reel`.
+
 ## Reel «3 señales de que tu negocio necesita un sistema» (informativo, 2026-11-23) — HECHO
 `zainsoft-senales-sistema/`: `out/final.mp4` (33,0 s, −14,6 LUFS, pico −3,5 dBFS, **con música**), `out/portada-9x16.png`, `BRIEF.md`, `GUION.md`, `STORYBOARD.md`, `CREDITOS.md`, `PUBLICACION.md`.
 Composición `app/src/reel/SenalesReel.tsx`, fondo crema, todo en código salvo la planilla: **captura de un Excel real** (pedido del usuario) con datos de ejemplo, en `app/public/excel/` (`.xlsx` con autor «ZainSoft» + `excel.png` con las iniciales de la cuenta tapadas). `final.mp4` viene de `out/v02.mp4`; la versión con la planilla dibujada es `final_v01.mp4`. Tiempos atados a las palabras de la voz (31,8 s).

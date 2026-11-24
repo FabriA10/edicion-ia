@@ -1,0 +1,548 @@
+[
+  {
+    "text": "El",
+    "startMs": 50,
+    "endMs": 240,
+    "frase": 0
+  },
+  {
+    "text": " doce",
+    "startMs": 240,
+    "endMs": 670,
+    "frase": 0
+  },
+  {
+    "text": " de",
+    "startMs": 670,
+    "endMs": 720,
+    "frase": 0
+  },
+  {
+    "text": " noviembre,",
+    "startMs": 720,
+    "endMs": 1350,
+    "frase": 0
+  },
+  {
+    "text": " Microsoft",
+    "startMs": 1350,
+    "endMs": 1810,
+    "frase": 0
+  },
+  {
+    "text": " se",
+    "startMs": 1810,
+    "endMs": 1990,
+    "frase": 0
+  },
+  {
+    "text": " cayó",
+    "startMs": 1990,
+    "endMs": 2500,
+    "frase": 0
+  },
+  {
+    "text": " casi",
+    "startMs": 2500,
+    "endMs": 2780,
+    "frase": 0
+  },
+  {
+    "text": " un",
+    "startMs": 2780,
+    "endMs": 2930,
+    "frase": 0
+  },
+  {
+    "text": " día",
+    "startMs": 2930,
+    "endMs": 3280,
+    "frase": 0
+  },
+  {
+    "text": " entero.",
+    "startMs": 3280,
+    "endMs": 3890,
+    "frase": 0
+  },
+  {
+    "text": " Outlook,",
+    "startMs": 4430,
+    "endMs": 4880,
+    "frase": 1
+  },
+  {
+    "text": " Teams",
+    "startMs": 4880,
+    "endMs": 5070,
+    "frase": 1
+  },
+  {
+    "text": " y",
+    "startMs": 5070,
+    "endMs": 5130,
+    "frase": 1
+  },
+  {
+    "text": " OneDrive",
+    "startMs": 5130,
+    "endMs": 5710,
+    "frase": 1
+  },
+  {
+    "text": " dejaron",
+    "startMs": 5710,
+    "endMs": 6410,
+    "frase": 1
+  },
+  {
+    "text": " de",
+    "startMs": 6410,
+    "endMs": 6470,
+    "frase": 1
+  },
+  {
+    "text": " andar",
+    "startMs": 6470,
+    "endMs": 6900,
+    "frase": 1
+  },
+  {
+    "text": " en",
+    "startMs": 6900,
+    "endMs": 7060,
+    "frase": 1
+  },
+  {
+    "text": " más",
+    "startMs": 7060,
+    "endMs": 7330,
+    "frase": 1
+  },
+  {
+    "text": " de",
+    "startMs": 7330,
+    "endMs": 7500,
+    "frase": 1
+  },
+  {
+    "text": " setenta",
+    "startMs": 7500,
+    "endMs": 8040,
+    "frase": 1
+  },
+  {
+    "text": " países.",
+    "startMs": 8040,
+    "endMs": 8640,
+    "frase": 1
+  },
+  {
+    "text": " ¿Fue",
+    "startMs": 9250,
+    "endMs": 9420,
+    "frase": 2
+  },
+  {
+    "text": " un",
+    "startMs": 9420,
+    "endMs": 9590,
+    "frase": 2
+  },
+  {
+    "text": " hackeo?",
+    "startMs": 9590,
+    "endMs": 9850,
+    "frase": 2
+  },
+  {
+    "text": " No.",
+    "startMs": 10270,
+    "endMs": 10500,
+    "frase": 3
+  },
+  {
+    "text": " Fue",
+    "startMs": 10970,
+    "endMs": 11260,
+    "frase": 4
+  },
+  {
+    "text": " un",
+    "startMs": 11260,
+    "endMs": 11470,
+    "frase": 4
+  },
+  {
+    "text": " error",
+    "startMs": 11470,
+    "endMs": 11770,
+    "frase": 4
+  },
+  {
+    "text": " propio,",
+    "startMs": 11770,
+    "endMs": 12190,
+    "frase": 4
+  },
+  {
+    "text": " de",
+    "startMs": 12190,
+    "endMs": 12410,
+    "frase": 4
+  },
+  {
+    "text": " julio,",
+    "startMs": 12410,
+    "endMs": 12980,
+    "frase": 4
+  },
+  {
+    "text": " que",
+    "startMs": 12980,
+    "endMs": 13050,
+    "frase": 4
+  },
+  {
+    "text": " nadie",
+    "startMs": 13050,
+    "endMs": 13490,
+    "frase": 4
+  },
+  {
+    "text": " vio",
+    "startMs": 13490,
+    "endMs": 13700,
+    "frase": 4
+  },
+  {
+    "text": " durante",
+    "startMs": 13700,
+    "endMs": 14480,
+    "frase": 4
+  },
+  {
+    "text": " más",
+    "startMs": 14480,
+    "endMs": 14700,
+    "frase": 4
+  },
+  {
+    "text": " de",
+    "startMs": 14700,
+    "endMs": 14770,
+    "frase": 4
+  },
+  {
+    "text": " tres",
+    "startMs": 14770,
+    "endMs": 15080,
+    "frase": 4
+  },
+  {
+    "text": " meses.",
+    "startMs": 15080,
+    "endMs": 15490,
+    "frase": 4
+  },
+  {
+    "text": " Y",
+    "startMs": 16090,
+    "endMs": 16190,
+    "frase": 5
+  },
+  {
+    "text": " si",
+    "startMs": 16190,
+    "endMs": 16360,
+    "frase": 5
+  },
+  {
+    "text": " a",
+    "startMs": 16360,
+    "endMs": 16570,
+    "frase": 5
+  },
+  {
+    "text": " Microsoft",
+    "startMs": 16570,
+    "endMs": 16900,
+    "frase": 5
+  },
+  {
+    "text": " le",
+    "startMs": 16900,
+    "endMs": 17060,
+    "frase": 5
+  },
+  {
+    "text": " pasa,",
+    "startMs": 17060,
+    "endMs": 17480,
+    "frase": 5
+  },
+  {
+    "text": " ¿qué",
+    "startMs": 17480,
+    "endMs": 17630,
+    "frase": 5
+  },
+  {
+    "text": " le",
+    "startMs": 17630,
+    "endMs": 17910,
+    "frase": 5
+  },
+  {
+    "text": " puede",
+    "startMs": 17910,
+    "endMs": 18160,
+    "frase": 5
+  },
+  {
+    "text": " pasar",
+    "startMs": 18160,
+    "endMs": 18500,
+    "frase": 5
+  },
+  {
+    "text": " a",
+    "startMs": 18500,
+    "endMs": 18560,
+    "frase": 5
+  },
+  {
+    "text": " tu",
+    "startMs": 18560,
+    "endMs": 18650,
+    "frase": 5
+  },
+  {
+    "text": " negocio?",
+    "startMs": 18650,
+    "endMs": 19160,
+    "frase": 5
+  },
+  {
+    "text": " Tres",
+    "startMs": 19660,
+    "endMs": 19910,
+    "frase": 6
+  },
+  {
+    "text": " cosas",
+    "startMs": 19910,
+    "endMs": 20210,
+    "frase": 6
+  },
+  {
+    "text": " simples:",
+    "startMs": 20210,
+    "endMs": 20610,
+    "frase": 6
+  },
+  {
+    "text": " tené",
+    "startMs": 21150,
+    "endMs": 21460,
+    "frase": 7
+  },
+  {
+    "text": " copias",
+    "startMs": 21460,
+    "endMs": 21840,
+    "frase": 7
+  },
+  {
+    "text": " de",
+    "startMs": 21840,
+    "endMs": 21980,
+    "frase": 7
+  },
+  {
+    "text": " tus",
+    "startMs": 21980,
+    "endMs": 22140,
+    "frase": 7
+  },
+  {
+    "text": " datos.",
+    "startMs": 22140,
+    "endMs": 22440,
+    "frase": 7
+  },
+  {
+    "text": " no",
+    "startMs": 22920,
+    "endMs": 23130,
+    "frase": 8
+  },
+  {
+    "text": " dependas",
+    "startMs": 23130,
+    "endMs": 23570,
+    "frase": 8
+  },
+  {
+    "text": " de",
+    "startMs": 23570,
+    "endMs": 23600,
+    "frase": 8
+  },
+  {
+    "text": " una",
+    "startMs": 23600,
+    "endMs": 24000,
+    "frase": 8
+  },
+  {
+    "text": " sola",
+    "startMs": 24000,
+    "endMs": 24270,
+    "frase": 8
+  },
+  {
+    "text": " herramienta.",
+    "startMs": 24270,
+    "endMs": 24800,
+    "frase": 8
+  },
+  {
+    "text": " y",
+    "startMs": 25130,
+    "endMs": 25240,
+    "frase": 9
+  },
+  {
+    "text": " que",
+    "startMs": 25240,
+    "endMs": 25420,
+    "frase": 9
+  },
+  {
+    "text": " alguien",
+    "startMs": 25420,
+    "endMs": 25820,
+    "frase": 9
+  },
+  {
+    "text": " revise",
+    "startMs": 25820,
+    "endMs": 26310,
+    "frase": 9
+  },
+  {
+    "text": " que",
+    "startMs": 26310,
+    "endMs": 26510,
+    "frase": 9
+  },
+  {
+    "text": " todo",
+    "startMs": 26510,
+    "endMs": 26750,
+    "frase": 9
+  },
+  {
+    "text": " esté",
+    "startMs": 26750,
+    "endMs": 26980,
+    "frase": 9
+  },
+  {
+    "text": " al",
+    "startMs": 26980,
+    "endMs": 27230,
+    "frase": 9
+  },
+  {
+    "text": " día.",
+    "startMs": 27230,
+    "endMs": 27450,
+    "frase": 9
+  },
+  {
+    "text": " En",
+    "startMs": 28010,
+    "endMs": 28160,
+    "frase": 10
+  },
+  {
+    "text": " ZainSoft",
+    "startMs": 28160,
+    "endMs": 28420,
+    "frase": 10
+  },
+  {
+    "text": " hacemos",
+    "startMs": 28420,
+    "endMs": 28630,
+    "frase": 10
+  },
+  {
+    "text": " sistemas",
+    "startMs": 28630,
+    "endMs": 29030,
+    "frase": 10
+  },
+  {
+    "text": " y",
+    "startMs": 29030,
+    "endMs": 29070,
+    "frase": 10
+  },
+  {
+    "text": " los",
+    "startMs": 29070,
+    "endMs": 29220,
+    "frase": 10
+  },
+  {
+    "text": " mantenemos,",
+    "startMs": 29220,
+    "endMs": 29600,
+    "frase": 10
+  },
+  {
+    "text": " ¿Tu",
+    "startMs": 29600,
+    "endMs": 29650,
+    "frase": 10
+  },
+  {
+    "text": " negocio",
+    "startMs": 29650,
+    "endMs": 29880,
+    "frase": 10
+  },
+  {
+    "text": " está",
+    "startMs": 29880,
+    "endMs": 30110,
+    "frase": 10
+  },
+  {
+    "text": " preparado?",
+    "startMs": 30110,
+    "endMs": 30480,
+    "frase": 10
+  },
+  {
+    "text": " Escribinos",
+    "startMs": 30880,
+    "endMs": 32080,
+    "frase": 11
+  },
+  {
+    "text": " por",
+    "startMs": 32080,
+    "endMs": 32290,
+    "frase": 11
+  },
+  {
+    "text": " DM.",
+    "startMs": 32290,
+    "endMs": 33420,
+    "frase": 11
+  }
+]
